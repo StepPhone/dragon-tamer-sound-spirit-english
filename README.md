@@ -23,7 +23,6 @@ No Python or translation tools are needed to play. Use the release ZIP above rat
 - 101 encyclopedia descriptions, 58 wrapped map descriptions, score titles, and translated staff-credit text.
 - English interface graphics with clearer pixel lettering and original button artwork retained.
 - Player-name handling fixes and English team-list headings and element labels.
-- Native 256×192 **StepHackerZ boot credits**, matching the Zoids translation projects.
 
 ![StepHackerZ boot screen](assets/boot-credits.png)
 ![Map description layout](assets/map-text.png)
