@@ -1,0 +1,681 @@
+[
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 392,
+    "length": 59,
+    "ja": "セーブデータに現在のデータを\n上書きします。よろしいですか？",
+    "en": "Save over current data?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 452,
+    "length": 69,
+    "ja": "セーブしています。電源を切ったり、\nカードをぬいたりしないでください。",
+    "en": "Saving... Do not power off or remove card."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 522,
+    "length": 22,
+    "ja": "セーブが完了しました。",
+    "en": "Save complete."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 545,
+    "length": 69,
+    "ja": "データを読めませんでした。\n電源を切ってカードを差込み直してください。",
+    "en": "Read failed. Power off and reinsert card."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 615,
+    "length": 22,
+    "ja": "セーブに失敗しました。",
+    "en": "Save failed."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 638,
+    "length": 30,
+    "ja": "セーブデータがこわれています。",
+    "en": "Save data is corrupted."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 669,
+    "length": 59,
+    "ja": "バックアップを初期化しています。\n電源を切らないでください。",
+    "en": "Initializing backup. Do not power off."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 729,
+    "length": 30,
+    "ja": "クリアデータをセーブしますか？",
+    "en": "Save clear data?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 760,
+    "length": 36,
+    "ja": "本当にセーブしなくてよろしいですか？",
+    "en": "Exit without saving?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 797,
+    "length": 32,
+    "ja": "セーブせずにゲームを終了します。",
+    "en": "Game will end without saving."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 830,
+    "length": 65,
+    "ja": "セーブに失敗しました。\n電源を切ってカードを差込み直してください。",
+    "en": "Save failed. Power off and reinsert card."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 896,
+    "length": 57,
+    "ja": "現在のデータでセーブデータを\n作成します。よろしいですか？",
+    "en": "Create save from current data?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 954,
+    "length": 79,
+    "ja": "データがこわれています。バックアップを\n初期化中です。電源を切らないでください。",
+    "en": "Data corrupted. Initializing backup."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1299,
+    "length": 55,
+    "ja": "現在のセーブデータを消去します。\n本当によろしいですか？",
+    "en": "Erase current save data?\nAre you sure?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1355,
+    "length": 39,
+    "ja": "本当にデータを消去して\nよろしいですか？",
+    "en": "Really erase this data?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1395,
+    "length": 75,
+    "ja": "データを消去しています。電源を切ったり、\nカードを抜いたりしないでください。",
+    "en": "Erasing data. Do not power off or remove card."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1471,
+    "length": 28,
+    "ja": "セーブデータを消去しました。",
+    "en": "Save data erased."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1500,
+    "length": 30,
+    "ja": "データは既に消去されています。",
+    "en": "Data already erased."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1531,
+    "length": 73,
+    "ja": "データを削除できませんでした。\n電源を切ってカードを差込み直してください。",
+    "en": "Delete failed. Power off and reinsert card."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1605,
+    "length": 28,
+    "ja": "データの削除に失敗しました。",
+    "en": "Data deletion failed."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1634,
+    "length": 24,
+    "ja": "参加を受け付けています。",
+    "en": "Entry accepted."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1659,
+    "length": 26,
+    "ja": "%sがエントリーされました。",
+    "en": "%s entered."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1686,
+    "length": 69,
+    "ja": "検索中…\u3000下画面に名前が出ます。\n複数の場合はどれかを選んでください。",
+    "en": "Searching... Check names below.\nChoose one if several appear."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1756,
+    "length": 37,
+    "ja": "準備中です。\nしばらくお待ちください。",
+    "en": "Preparing... Please wait."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1794,
+    "length": 47,
+    "ja": "通信が切断されました。\nタイトル画面に戻ります。",
+    "en": "Connection lost.\nReturning to title."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1842,
+    "length": 34,
+    "ja": "通信対戦が遊べるようになりました。",
+    "en": "Wireless Battle unlocked!"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1877,
+    "length": 24,
+    "ja": "文字を入力してください。",
+    "en": "Enter a name."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1902,
+    "length": 57,
+    "ja": "同じ名前のドラゴンがいます。\n名前をつけなおしてください。",
+    "en": "Dragon name already used.\nChoose another."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1960,
+    "length": 57,
+    "ja": "同じ名前のチームがあります。\n名前をつけなおしてください。",
+    "en": "Team name already used.\nChoose another."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2058,
+    "length": 49,
+    "ja": "前列にドラゴンを配置したチームを\n選んでください。",
+    "en": "Choose a team with a Dragon\nin the front row."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2210,
+    "length": 53,
+    "ja": "チームに入っているドラゴンは\n手放すことはできません。",
+    "en": "Can't release a Dragon\non your team."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4256,
+    "length": 40,
+    "ja": "サウンド設定をサラウンドに変更しました。",
+    "en": "Sound set to surround."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4297,
+    "length": 38,
+    "ja": "サウンド設定をステレオに変更しました。",
+    "en": "Sound set to stereo."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4336,
+    "length": 40,
+    "ja": "サウンド設定をヘッドホンに変更しました。",
+    "en": "Sound set to headphones."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1034,
+    "length": 38,
+    "ja": "思い出す記憶ファイルを選んでください。",
+    "en": "Choose a sound memory."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1073,
+    "length": 30,
+    "ja": "音の記憶ファイルがありません。",
+    "en": "No sound memories."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1104,
+    "length": 36,
+    "ja": "いま録音したメロディを保存しますか？",
+    "en": "Save this melody?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1141,
+    "length": 38,
+    "ja": "保存する記憶ファイルを選んでください。",
+    "en": "Choose a save slot."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1180,
+    "length": 45,
+    "ja": "このファイルを上書きしますが\nよろしいですか？",
+    "en": "Overwrite this file?\nAre you sure?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1226,
+    "length": 41,
+    "ja": "今の音は保存されませんが\nよろしいですか？",
+    "en": "Current sound won't be saved.\nContinue?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 1268,
+    "length": 30,
+    "ja": "この音の記憶でよろしいですか？",
+    "en": "Use this sound memory?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2108,
+    "length": 28,
+    "ja": "ドラゴンを選択してください。",
+    "en": "Choose a Dragon."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2137,
+    "length": 43,
+    "ja": "そのドラゴンはすでにチームに\n入っています。",
+    "en": "Dragon is already on your team."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2181,
+    "length": 28,
+    "ja": "このドラゴンを手放しますか？",
+    "en": "Release this Dragon?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2264,
+    "length": 49,
+    "ja": "Ｌボタン、Ｒボタンでページの\n切り替えが出来ます。",
+    "en": "Use L/R to change pages."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2314,
+    "length": 30,
+    "ja": "「%s」を冒険に連れて行きます。",
+    "en": "Take %s adventuring?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2345,
+    "length": 20,
+    "ja": "ドラゴンは回復した。",
+    "en": "Dragon restored."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2366,
+    "length": 26,
+    "ja": "タマゴをネストにあずけた。",
+    "en": "Egg sent to Nest."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2393,
+    "length": 37,
+    "ja": "【%s】と交換します。\nよろしいですか？",
+    "en": "Trade for %s?\nAre you sure?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2431,
+    "length": 14,
+    "ja": "何をしますか？",
+    "en": "What to do?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2446,
+    "length": 26,
+    "ja": "アイテムを持っていません。",
+    "en": "No items."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2473,
+    "length": 36,
+    "ja": "確認したいアイテムを選んでください。",
+    "en": "Choose item to inspect."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2510,
+    "length": 34,
+    "ja": "使いたいアイテムを選んでください。",
+    "en": "Choose item to use."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2545,
+    "length": 34,
+    "ja": "対象のドラゴンを選択してください。",
+    "en": "Choose a Dragon."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2580,
+    "length": 57,
+    "ja": "【＃＃＃＃＃＃＃】に\n【＃＃＃＃＃＃＃＃】を使用しますか？",
+    "en": "Use this item on target?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2638,
+    "length": 28,
+    "ja": "大事なものを持っていません。",
+    "en": "No key items."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2667,
+    "length": 38,
+    "ja": "確認したい大事なものを選んでください。",
+    "en": "Choose a key item."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2706,
+    "length": 34,
+    "ja": "ここで帰還の指輪は使用できません。",
+    "en": "Can't use Return Ring here."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2741,
+    "length": 53,
+    "ja": "帰還の指輪を使って、ここから出ます。\nよろしいですか？",
+    "en": "Use Return Ring to leave?\nProceed?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2795,
+    "length": 41,
+    "ja": "このアイテムを捨てます。\nよろしいですか？",
+    "en": "Discard this item?\nProceed?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2837,
+    "length": 36,
+    "ja": "【＃＃＃＃＃＃＃＃】を使用しますか？",
+    "en": "Use this item?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2874,
+    "length": 30,
+    "ja": "捨てるアイテムを選んで下さい。",
+    "en": "Choose an item to discard."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2940,
+    "length": 43,
+    "ja": "タマゴはネストに預けないと\n使用できません。",
+    "en": "Eggs must be at the Nest\nto be used."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2984,
+    "length": 37,
+    "ja": "このアイテムは\n街では使用できません。",
+    "en": "Can't use this item\nin town."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3022,
+    "length": 63,
+    "ja": "一度入ると出る事はできません。\n【はじまりの七宮】に入りますか？",
+    "en": "No way back! Enter the\nFirst Shrine?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3086,
+    "length": 32,
+    "ja": "カースドダンジョンに入りますか？",
+    "en": "Enter Cursed Dungeon?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3119,
+    "length": 22,
+    "ja": "闘技戦を開始しますか？",
+    "en": "Start Arena battle?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3142,
+    "length": 30,
+    "ja": "何についての情報が知りたいの？",
+    "en": "What info do you need?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3173,
+    "length": 55,
+    "ja": "＜音＞を聴かせるときに\nカウントダウンをおこないますか？",
+    "en": "Countdown before playing sound?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3229,
+    "length": 12,
+    "ja": "＜音＞再生中",
+    "en": "Playing..."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3242,
+    "length": 63,
+    "ja": "今、トントに聴かせた＜音＞は\n消えてしまいますがよろしいですか？",
+    "en": "This sound will be lost.\nContinue?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3306,
+    "length": 51,
+    "ja": "タマゴがないため＜音＞を\n聴かせることができません。",
+    "en": "Need an egg to play sound."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3358,
+    "length": 34,
+    "ja": "ドラゴンスコアを選択してください。",
+    "en": "Choose a Dragon Score."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3393,
+    "length": 59,
+    "ja": "同じ種類のドラゴンが４匹になったので\nネストに引き渡します。",
+    "en": "Four of this Dragon!\nSent to the Nest."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3453,
+    "length": 70,
+    "ja": "ドラゴンは150体以上もてません。\nドラゴンを減らしてから産んでください。",
+    "en": "Dragon limit reached.\nRelease one before hatching."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3524,
+    "length": 32,
+    "ja": "カウントダウンの設定を行います。",
+    "en": "Set countdown."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3557,
+    "length": 45,
+    "ja": "カウントダウン設定を\n「なし」に変更しました。",
+    "en": "Countdown set to\nNone."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3603,
+    "length": 45,
+    "ja": "カウントダウン設定を\n「３秒」に変更しました。",
+    "en": "Countdown set to\n3 seconds."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3649,
+    "length": 45,
+    "ja": "カウントダウン設定を\n「６秒」に変更しました。",
+    "en": "Countdown set to\n6 seconds."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3695,
+    "length": 45,
+    "ja": "ドラゴンを誕生させた\nスコアを選んでください。",
+    "en": "Choose a hatching score."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3741,
+    "length": 51,
+    "ja": "「ドラゴンスコア」を見つけた！\nバッグに入れますか？",
+    "en": "Found Dragon Score!\nAdd to bag?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3793,
+    "length": 39,
+    "ja": "【%s】を見つけた！\nバッグに入れますか？",
+    "en": "Found %s!\nAdd to bag?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3833,
+    "length": 59,
+    "ja": "【%s】があったがバッグが\n一杯だ。何かもちものを捨てますか？",
+    "en": "Bag full! Discard an item?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3893,
+    "length": 46,
+    "ja": "お金 【%d】G を見つけた！\nバッグに入れますか？",
+    "en": "Found %d G!\nAdd to bag?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3940,
+    "length": 35,
+    "ja": "ドラゴンメダル【%d】枚 を見つけた！",
+    "en": "Found %d Dragon Medals!"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3976,
+    "length": 18,
+    "ja": "階段を上りますか？",
+    "en": "Climb the stairs?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 3995,
+    "length": 18,
+    "ja": "階段を下りますか？",
+    "en": "Go downstairs?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4014,
+    "length": 24,
+    "ja": "ワープの印に入りますか？",
+    "en": "Enter the warp?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4039,
+    "length": 51,
+    "ja": "気脈の精の力を使って\nドラゴンのＨＰを回復しますか？",
+    "en": "Use the Spirit to restore HP?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4091,
+    "length": 30,
+    "ja": "ゲームデータをセーブしますか？",
+    "en": "Save game data?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4122,
+    "length": 38,
+    "ja": "【竜よけの香草】の効き目が無くなった。",
+    "en": "Dragon repellent wore off."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4161,
+    "length": 39,
+    "ja": "ドラゴンメダル【%d】枚 を入手しました。",
+    "en": "Got %d Dragon Medals."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4201,
+    "length": 12,
+    "ja": "逃げますか？",
+    "en": "Run away?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4214,
+    "length": 26,
+    "ja": "この戦闘は逃げられません。",
+    "en": "Can't flee this battle."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 4241,
+    "length": 14,
+    "ja": "降参しますか？",
+    "en": "Give up?"
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2018,
+    "length": 39,
+    "ja": "前列に戦えるドラゴンを\n配置して下さい。",
+    "en": "Put a Dragon in front.\nChoose a team."
+  },
+  {
+    "file": "data/SystemMessText.str",
+    "offset": 2905,
+    "length": 34,
+    "ja": "【＊＊＊＊＊＊＊＊】を捨てました。",
+    "en": "Discarded: %s."
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "offset": 131920,
+    "ja": "たゆたう洞穴",
+    "en": "Drifting Cave"
+  },
+  {
+    "offset": 264336,
+    "ja": "風成る平原",
+    "en": "Windy Plains"
+  },
+  {
+    "offset": 413928,
+    "ja": "ヨナマ海",
+    "en": "Yonama Sea"
+  },
+  {
+    "offset": 577232,
+    "ja": "西ヨナマ海",
+    "en": "West Yonama Sea"
+  },
+  {
+    "offset": 677464,
+    "ja": "ムエライいせき",
+    "en": "Muerai Ruins"
+  },
+  {
+    "offset": 898596,
+    "ja": "ホムラ洞",
+    "en": "Homura Cave"
+  },
+  {
+    "offset": 1091024,
+    "ja": "キヨラ洞",
+    "en": "Kiyora Cave"
+  },
+  {
+    "offset": 1213912,
+    "ja": "カクレの森",
+    "en": "Hidden Forest"
+  },
+  {
+    "offset": 1313148,
+    "ja": "カクレの森の地下洞",
+    "en": "Hidden Forest Cave"
+  },
+  {
+    "offset": 1477112,
+    "ja": "ハステ山",
+    "en": "Mount Haste"
+  },
+  {
+    "offset": 1702960,
+    "ja": "白羽谷",
+    "en": "Shirohane Valley"
+  },
+  {
+    "offset": 1917320,
+    "ja": "スーン高原",
+    "en": "Soon Plateau"
+  },
+  {
+    "offset": 2253344,
+    "ja": "聖地ラオザル",
+    "en": "Sacred Laozal"
+  },
+  {
+    "offset": 2278420,
+    "ja": "アマノ柱１Ｆ",
+    "en": "Amano Pillar 1F"
+  },
+  {
+    "offset": 2303936,
+    "ja": "アマノ柱2Ｆ",
+    "en": "Amano Pillar 2F"
+  },
+  {
+    "offset": 2340136,
+    "ja": "アマノ柱3Ｆ",
+    "en": "Amano Pillar 3F"
+  },
+  {
+    "offset": 2375156,
+    "ja": "アマノ柱4Ｆ",
+    "en": "Amano Pillar 4F"
+  },
+  {
+    "offset": 2411964,
+    "ja": "アマノ柱5Ｆ",
+    "en": "Amano Pillar 5F"
+  },
+  {
+    "offset": 2448872,
+    "ja": "アマノ柱6Ｆ",
+    "en": "Amano Pillar 6F"
+  },
+  {
+    "offset": 2485784,
+    "ja": "アマノ柱7Ｆ",
+    "en": "Amano Pillar 7F"
+  },
+  {
+    "offset": 2527472,
+    "ja": "アマノ柱8Ｆ",
+    "en": "Amano Pillar 8F"
+  },
+  {
+    "offset": 2831804,
+    "ja": "シラズバの森",
+    "en": "Shirazuba Forest"
+  },
+  {
+    "offset": 3129884,
+    "ja": "スタールイ雪原",
+    "en": "Starui Snowfield"
+  },
+  {
+    "offset": 3307900,
+    "ja": "氷の大穴",
+    "en": "Ice Chasm"
+  },
+  {
+    "offset": 3496104,
+    "ja": "ゲリラの村",
+    "en": "Guerrilla Village"
+  },
+  {
+    "offset": 3836664,
+    "ja": "ゲリラの森",
+    "en": "Guerrilla Forest"
+  },
+  {
+    "offset": 4140088,
+    "ja": "月下草原",
+    "en": "Moonlit Plains"
+  },
+  {
+    "offset": 4350756,
+    "ja": "ミノース宮B2F",
+    "en": "Minos Palace B2F"
+  },
+  {
+    "offset": 4561084,
+    "ja": "ミノース宮B1F",
+    "en": "Minos Palace B1F"
+  },
+  {
+    "offset": 4904228,
+    "ja": "イグゥのぬけ穴",
+    "en": "Igu Tunnel"
+  },
+  {
+    "offset": 5156196,
+    "ja": "ジバゴとりで",
+    "en": "Zhivago Fort"
+  },
+  {
+    "offset": 5483660,
+    "ja": "クアン山中",
+    "en": "Mount Kuan"
+  },
+  {
+    "offset": 5822060,
+    "ja": "クアン山頂",
+    "en": "Kuan Summit"
+  },
+  {
+    "offset": 6166612,
+    "ja": "ムールイェ海岸",
+    "en": "Muurye Coast"
+  },
+  {
+    "offset": 6456284,
+    "ja": "クサビの宮",
+    "en": "Wedge Shrine"
+  },
+  {
+    "offset": 6753076,
+    "ja": "クサビの内宮B1F",
+    "en": "Inner Wedge B1F"
+  },
+  {
+    "offset": 7015488,
+    "ja": "クサビの内宮B2F",
+    "en": "Inner Wedge B2F"
+  },
+  {
+    "offset": 7240208,
+    "ja": "はじまりの七宮",
+    "en": "Seven Origin Shrines"
+  },
+  {
+    "offset": 7295420,
+    "ja": "カースドダンジョン1",
+    "en": "Cursed Dungeon 1"
+  },
+  {
+    "offset": 7356828,
+    "ja": "カースドダンジョン2",
+    "en": "Cursed Dungeon 2"
+  },
+  {
+    "offset": 7415292,
+    "ja": "カースドダンジョン3",
+    "en": "Cursed Dungeon 3"
+  },
+  {
+    "offset": 7528496,
+    "ja": "カースドダンジョン4",
+    "en": "Cursed Dungeon 4"
+  },
+  {
+    "offset": 7593980,
+    "ja": "カースドダンジョン5",
+    "en": "Cursed Dungeon 5"
+  },
+  {
+    "offset": 7649464,
+    "ja": "カースドダンジョン6",
+    "en": "Cursed Dungeon 6"
+  },
+  {
+    "offset": 7766900,
+    "ja": "カースドダンジョン7B1F",
+    "en": "Cursed Dungeon 7B1F"
+  },
+  {
+    "offset": 7883588,
+    "ja": "カースドダンジョン7B2F",
+    "en": "Cursed Dungeon 7B2F"
+  },
+  {
+    "offset": 7942752,
+    "ja": "カースドダンジョン8",
+    "en": "Cursed Dungeon 8"
+  },
+  {
+    "offset": 8005244,
+    "ja": "カースドダンジョン9",
+    "en": "Cursed Dungeon 9"
+  },
+  {
+    "offset": 8065980,
+    "ja": "カースドダンジョン10",
+    "en": "Cursed Dungeon 10"
+  },
+  {
+    "offset": 8129964,
+    "ja": "カースドダンジョン11",
+    "en": "Cursed Dungeon 11"
+  },
+  {
+    "offset": 8239068,
+    "ja": "カースドダンジョン12",
+    "en": "Cursed Dungeon 12"
+  },
+  {
+    "offset": 8297420,
+    "ja": "カースドダンジョン13",
+    "en": "Cursed Dungeon 13"
+  },
+  {
+    "offset": 8406876,
+    "ja": "カースドダンジョン14",
+    "en": "Cursed Dungeon 14"
+  }
+]

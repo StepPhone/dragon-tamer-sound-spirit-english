@@ -1,0 +1,830 @@
+{
+  "502794": {
+    "ja": "っつーコトで\nタマゴもってきやしたー！",
+    "en": "So, yeah! I brought an egg!"
+  },
+  "502832": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "502843": {
+    "ja": "ありゃま、ホンキだったんだ…\nま、まあ、いいけど。",
+    "en": "Oh, you really meant it... Well, okay."
+  },
+  "502900": {
+    "ja": "タマゴ部屋空いてる？\nさっそくためしたいんだけど！",
+    "en": "Is the Egg Room free? I want to try it now!"
+  },
+  "502950": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "502961": {
+    "ja": "それじゃあ、先にそのタマゴを\nあずかるよ。登録をしなくちゃね。",
+    "en": "First, I will take that egg and register it."
+  },
+  "503023": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503034": {
+    "ja": "今後もタマゴを手に入れたらネストに\nもってきて。安全に管理するからさ。",
+    "en": "Bring any eggs you find to the Nest. We will keep them safe."
+  },
+  "503111": {
+    "ja": "うむ、その方が安心そうジャ。",
+    "en": "Yes, that does sound safer."
+  },
+  "503140": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503151": {
+    "ja": "じゃ、ドラゴンの生み出し方を\nざっと説明しよっか。",
+    "en": "Let me explain how to hatch a Dragon."
+  },
+  "503201": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503212": {
+    "ja": "今回は説明だけ。じっさいに\nためすのは、このあと自分の手でな。",
+    "en": "This is just an explanation. You will try it yourself soon."
+  },
+  "503274": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503285": {
+    "ja": "タマゴはネストのタマゴ部屋で\nかえす。まず、これが決まりごとだ。",
+    "en": "First rule: hatch eggs in the Nest Egg Room."
+  },
+  "503356": {
+    "ja": "気脈が安定してるから\n＜スピリット＞がよくはたらくのよね。",
+    "en": "The ley lines are stable here, so Spirits work well."
+  },
+  "503414": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503425": {
+    "ja": "＜スピリット＞を得るには音が一番。\n音の調和が力を生み出すんだ。",
+    "en": "Sound is the best way to get Spirit. Harmony creates power."
+  },
+  "503489": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "503500": {
+    "ja": "ネスト内にある「＜音＞でドラゴンを\n誕生させる」をタッチしてっと…。",
+    "en": "Tap 'Birth a Dragon with Sound' in the Nest..."
+  },
+  "505536": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505547": {
+    "ja": "まず生み出すタマゴをえらぶんだけど、\nフラトのタマゴにいいのがあったな。",
+    "en": "First, choose an egg. That Frat Egg looks good."
+  },
+  "505619": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505630": {
+    "ja": "タマゴには種類があってさ、それぞれ\n生まれるドラゴンの種類がちがう。",
+    "en": "Eggs come in different kinds, and each hatches different Dragons."
+  },
+  "505698": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505709": {
+    "ja": "上画面を見て欲しいんだけど、",
+    "en": "Look at the top screen,"
+  },
+  "505738": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505749": {
+    "ja": "フラトのタマゴから生まれる\nドラゴンは全部で１２種類だな。",
+    "en": "The Frat Egg can hatch 12 kinds of Dragon."
+  },
+  "505807": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505818": {
+    "ja": "ドラゴンの生まれる種類は、\nタマゴによって変わる。",
+    "en": "Which kinds hatch depends on the egg."
+  },
+  "505868": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505879": {
+    "ja": "ドラゴンは火、水、風、地、光、闇と\n６つの属性に分かれてて…",
+    "en": "Six elements: Fire, Water, Wind, Earth, Light, and Dark..."
+  },
+  "505939": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "505950": {
+    "ja": "表では、それぞれ左から\n火属性 （赤色）",
+    "en": "From the left: Fire (red)"
+  },
+  "505989": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506000": {
+    "ja": "水属性 （青色）",
+    "en": "Water (blue)"
+  },
+  "506016": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506027": {
+    "ja": "風属性 （緑色）",
+    "en": "Wind (green)"
+  },
+  "506043": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506054": {
+    "ja": "地属性 （茶色）",
+    "en": "Earth (brown)"
+  },
+  "506070": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506081": {
+    "ja": "光属性 （黄色）",
+    "en": "Light (yellow)"
+  },
+  "506097": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506108": {
+    "ja": "闇属性 （むらさき色）\nと分けられている。",
+    "en": "Dark (purple)\nThose are the elements."
+  },
+  "506149": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506160": {
+    "ja": "例えば、火属性のドラゴンは\nこの２種類ということになるから…",
+    "en": "For example, these two are Fire Dragons..."
+  },
+  "506220": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506231": {
+    "ja": "フラトのタマゴからは各属性それぞれ\nドラゴンが２種類ずつ生まれるワケ。",
+    "en": "The Frat Egg hatches two Dragons of each element."
+  },
+  "506301": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506312": {
+    "ja": "ちなみに今",
+    "en": "And now,"
+  },
+  "506323": {
+    "ja": "君が\n持っている「フレアソード」は、",
+    "en": "the 'Flare Sword' you have is"
+  },
+  "506359": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506370": {
+    "ja": "フラトのタマゴから生まれる\n火属性のドラゴンだね。",
+    "en": "a Fire Dragon that hatches from a Frat Egg."
+  },
+  "506427": {
+    "ja": "いや、それ、私の！",
+    "en": "Hey, that is mine!"
+  },
+  "506446": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506457": {
+    "ja": "すでに手に入れたドラゴンは\nこのように表示されるよ。",
+    "en": "Dragons you have already found appear like this."
+  },
+  "506516": {
+    "ja": "…丸無視スか……。",
+    "en": "...Listening...?"
+  },
+  "506535": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506546": {
+    "ja": "よし、それじゃいよいよ\nドラゴンを生み出す説明だ。",
+    "en": "All right, now for how to hatch a Dragon."
+  },
+  "506596": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506607": {
+    "ja": "まず、ドラゴンを生み出したい\nタマゴをえらぶ。",
+    "en": "First, choose the egg you want to hatch."
+  },
+  "506653": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506664": {
+    "ja": "次に、\n「＜音＞をきかせる」をタッチして…",
+    "en": "Next, tap 'Play Sound for It'..."
+  },
+  "506706": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "506717": {
+    "ja": "……よし、オトモリ君、よろしく。",
+    "en": "Otomori, you are up."
+  },
+  "506757": {
+    "ja": "ウム。",
+    "en": "Yes."
+  },
+  "507375": {
+    "ja": "あん、トント、なにやってるんだ？",
+    "en": "Hey, Tonto, what are you doing?"
+  },
+  "507408": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507419": {
+    "ja": "オトモリ君に音をきかせるんだ。\n今回はオイラが用意した音でいこう。",
+    "en": "We will play sound for Otomori. I brought a tune for this demo."
+  },
+  "507485": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507496": {
+    "ja": "実際は",
+    "en": "IRL,"
+  },
+  "507503": {
+    "ja": "君が用意した\n音でやるんだぜ。",
+    "en": "Use your own\nsound."
+  },
+  "507533": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507544": {
+    "ja": "今回の音は、こんなんだ。",
+    "en": "Here is today's sound."
+  },
+  "507569": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507580": {
+    "ja": "けっこういい＜スピリット＞、\n感じるだろ？",
+    "en": "You feel its Spirit, right?"
+  },
+  "507622": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507633": {
+    "ja": "それじゃ、オトモリ君にちゃんと\nきいてもらおうか。",
+    "en": "Now, let Otomori listen carefully."
+  },
+  "507683": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "507694": {
+    "ja": "「トントに＜音＞をきかせる」で\nカウントダウン後に記憶が始まるよ。",
+    "en": "Tap 'Play Sound for Tonto'; memory starts after the countdown."
+  },
+  "508423": {
+    "ja": "ウム、いい＜スピリット＞を感じるノ。",
+    "en": "Yes, I can feel a good Spirit."
+  },
+  "508460": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "508471": {
+    "ja": "カウントダウンをカットしたり、\n音の確認もできるんで、",
+    "en": "You can skip the countdown\nor replay the sound, too,"
+  },
+  "508525": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "508536": {
+    "ja": "ま、後で色々ためしてくれ。\n…じゃ、今度はタマゴにきかせよう。",
+    "en": "Try it out later.\nNow, let us play it for the egg."
+  },
+  "508605": {
+    "ja": "ギターとやらに変身するんで、後は",
+    "en": "I will turn into a guitar, then"
+  },
+  "508638": {
+    "ja": "、おぬしの出番ジャぞ。",
+    "en": "it is your turn."
+  },
+  "508672": {
+    "ja": "え、オレ？　ギターって、\n戦うときだけじゃないの！？",
+    "en": "Me? I thought the guitar was\nonly for battles!"
+  },
+  "508731": {
+    "ja": "むしろ、生み出すときこそ本番ジャ。\nメグミビトならうまくやってみせい！",
+    "en": "Hatching is the real test.\nYou can do it, Blessed One!"
+  },
+  "508812": {
+    "ja": "うおおっ、マジかよ！？？",
+    "en": "Whoa, seriously?!"
+  },
+  "508837": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "508848": {
+    "ja": "いいかい、それじゃ「今の＜音＞で\nドラゴンを誕生させる」をタッチ。",
+    "en": "Okay, tap 'Hatch a Dragon with This Sound.'"
+  },
+  "509845": {
+    "ja": "スゴい…カンペキじゃん…！\nメグミビトの超能力ってコト…？",
+    "en": "Amazing... Perfect!\nIs that the Blessed One's power?"
+  },
+  "509910": {
+    "ja": "おぬしの＜スピリット＞にあわせた\n形ジャからノ。ひけて当然じゃワイ。",
+    "en": "It took the form of your Spirit.\nOf course you could play it."
+  },
+  "509978": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "509989": {
+    "ja": "で、タマゴに音を\nきかせることに成功すると…",
+    "en": "When the egg hears\nthe sound..."
+  },
+  "510033": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510044": {
+    "ja": "音の＜スピリット＞が現れて\nタマゴに吸収されていく…ホラね。",
+    "en": "Sound Spirits appear\nand enter the egg. See?"
+  },
+  "510104": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510115": {
+    "ja": "緑の＜スピリット＞が多いってコトは\n風属性が強い音だったワケだ！",
+    "en": "Lots of green Spirits means\nthat sound had strong Wind energy!"
+  },
+  "510190": {
+    "ja": "赤とか黄色とか\nチラチラ混じってるけど？",
+    "en": "Red and yellow, too?"
+  },
+  "510230": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510241": {
+    "ja": "そ、そこが重要！　だいたい…\n70：20：10…ぐらいの割合かな。",
+    "en": "That is the key! About...\n70:20:10, roughly."
+  },
+  "510301": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510312": {
+    "ja": "つまり風属性が70％、火が20％、\n光なら10％の確率で生まれるワケ。",
+    "en": "So that is 70% Wind, 20% Fire,\nand 10% Light for the hatch."
+  },
+  "510376": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510387": {
+    "ja": "これ、ドラゴンの種類をそろえるには\nけっこう重要なコトだぞ…",
+    "en": "That matters when you want to collect different Dragons..."
+  },
+  "510447": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510458": {
+    "ja": "風が生まれやすいけど、火や光の\n可能性も少しあるってコトだ。ＯＫ？",
+    "en": "Wind is most likely, but Fire and Light are possible too. OK?"
+  },
+  "510524": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510535": {
+    "ja": "よって、上の表で今回生まれる\n可能性のあるドラゴンは…こうだな。",
+    "en": "So, on the chart, these are\nthe Dragons that might hatch..."
+  },
+  "510599": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510610": {
+    "ja": "じゃ、誕生させてみよっか。\nどの属性になるか、よく見とけよー。",
+    "en": "Let us hatch it! Watch which element you get."
+  },
+  "510916": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "510927": {
+    "ja": "ま、順当に風属性か。今回の音は\n緑の＜スピリット＞が多かったからな。",
+    "en": "As expected, Wind. This sound had\na lot of green Spirits."
+  },
+  "510995": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "511006": {
+    "ja": "他の属性のドラゴンを欲しいなら、\nその属性が強い音をさがすしかない。",
+    "en": "For another element, find a sound\nwith more of that element."
+  },
+  "511074": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "511085": {
+    "ja": "色々な音でドラゴンを生み出しながら\n各属性の強い音を見つけることだね。",
+    "en": "Try different sounds to find ones\nstrong in each element."
+  },
+  "511563": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "511587": {
+    "ja": "君！\n君のタマゴでためしてみな！",
+    "en": "Hey, you! Try it with your egg!"
+  },
+  "511626": {
+    "ja": "あれ、さっきのドラゴンくれないの？",
+    "en": "You are not giving me that Dragon?"
+  },
+  "511661": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "511672": {
+    "ja": "そんなワケあるかい。ほしけりゃ\n自分でなんとかするこった。",
+    "en": "Of course not! If you want one, hatch it yourself."
+  },
+  "511737": {
+    "ja": "ぶー。ケチっぽー。",
+    "en": "Boo. Cheap!"
+  },
+  "511767": {
+    "ja": "いいからいいから、さっそく\n生んでみようよ、ドラゴンちゃん！",
+    "en": "Come on, hatch your very own\nlittle Dragon!"
+  },
+  "512586": {
+    "ja": "うわ！　すごい！\nやったよトント！！",
+    "en": "Whoa! Amazing!\nWe did it, Tonto!!"
+  },
+  "512629": {
+    "ja": "ウソ……こうもカンタンに\nマスターしちゃった……？？？",
+    "en": "No way... You mastered it\nthat quickly...?"
+  },
+  "512690": {
+    "ja": "だからいっとろうが…こやつは\nまさしく、メグミビトだとな！",
+    "en": "I told you... This one truly is\na Blessed One!"
+  },
+  "512748": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "512759": {
+    "ja": "メグミビト…？",
+    "en": "Blessed...?"
+  },
+  "512774": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "512785": {
+    "ja": "ま、まぁタマゴだけに、\nたまたまうまくいった…とかね！",
+    "en": "W-well, maybe the egg just\nhappened to hatch easily!"
+  },
+  "512846": {
+    "ja": "うおおっ。",
+    "en": "Whoa!"
+  },
+  "512868": {
+    "ja": "へへ、オレのドラゴンか…\nなんか、かわいいな、コイツ！",
+    "en": "Heh, my very own Dragon...\nThis little guy is cute!"
+  },
+  "512922": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "512933": {
+    "ja": "生まれたドラゴンは、\nいったんネストであずかるから…",
+    "en": "Your Dragon stays\nat the Nest for now..."
+  },
+  "512985": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "512996": {
+    "ja": "外に連れ出すなら、ちゃんとチームに\n組みこむことを忘れずにな。",
+    "en": "To take it outside, remember\nto add it to your team."
+  },
+  "513058": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "513069": {
+    "ja": "組みこむためには、まず「チームを\n編成（へんせい）する」をタッチして",
+    "en": "First, tap 'Organize Team'\nto add it to your team,"
+  },
+  "513309": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "513320": {
+    "ja": "チームをえらぼう。\nチームは９作れるよ。",
+    "en": "Choose a team.\nYou can make up to nine."
+  },
+  "513360": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "513371": {
+    "ja": "そして「チーム編成」を\nタッチしてっと……。",
+    "en": "Then tap 'Team Formation'..."
+  },
+  "513951": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "513962": {
+    "ja": "現在の",
+    "en": "Now,"
+  },
+  "513969": {
+    "ja": "君の\nドラゴンチームが表示されたね。",
+    "en": "Your Dragon team\nis now displayed."
+  },
+  "514005": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514016": {
+    "ja": "クリスタルケージは持ってるだろ？\n６匹までなら連れていけるはずだ。",
+    "en": "You have a Crystal Cage, right?\nIt holds up to six Dragons."
+  },
+  "514082": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514093": {
+    "ja": "今はフレアソード１体しか\nチームにいないということになるね。",
+    "en": "Only Flare Sword is on your team right now."
+  },
+  "514153": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514164": {
+    "ja": "さっき生んだドラゴンを加えるには\nチームの空いてる場所をタッチして…",
+    "en": "To add the Dragon you just hatched,\ntap an empty team slot..."
+  },
+  "514232": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514243": {
+    "ja": "続いて「チームに加える」をタッチ。",
+    "en": "Then tap 'Add to Team.'"
+  },
+  "514434": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514445": {
+    "ja": "そうすると、ネストであずかっている\nドラゴンの一覧表が出てくるんで、",
+    "en": "A list of Dragons held at the Nest will appear,"
+  },
+  "514513": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514524": {
+    "ja": "加えたいドラゴンをえらんで\n自分のチームに入れるワケ。",
+    "en": "Choose a Dragon to add\nit to your team."
+  },
+  "514878": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514889": {
+    "ja": "「編成」では名前をつけたり、\nポジション変更もできる。",
+    "en": "'Formation' lets you rename Dragons\nand move them."
+  },
+  "514943": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "514954": {
+    "ja": "ま、色々やって自分だけの\nチームを作ってみるこった。",
+    "en": "Try things out and build a team of your own."
+  },
+  "515017": {
+    "ja": "オレだけのチーム…\nへへ、カッコいいかも！",
+    "en": "My own team...\nHeh, that sounds cool!"
+  },
+  "515066": {
+    "ja": "じゃ、やってみよっか！\nいざいざ、チーム作り！",
+    "en": "All right, give it a try!\nLet's build a team!"
+  },
+  "515820": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "515831": {
+    "ja": "おや、よく見りゃドラゴンが４匹も！\n順調じゃないか！",
+    "en": "Four Dragons already!\nYou are doing great!"
+  },
+  "515883": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "515894": {
+    "ja": "４匹なら、チームを前列、後列に\n分けることができるな。",
+    "en": "With four, split the team\ninto front and back rows."
+  },
+  "515955": {
+    "ja": "そうじゃノ。チと教えとくか。",
+    "en": "Right. A quick explanation."
+  },
+  "515991": {
+    "ja": "クリスタルケージで連れ出せる\nドラゴンは全部で６匹まで。",
+    "en": "You can take up to six Dragons\nin your Crystal Cage."
+  },
+  "516054": {
+    "ja": "チームでは、ドラゴンを前列と後列\nそれぞれ３匹ずつ配置できる。",
+    "en": "A team can have three Dragons\nin the front and three in back."
+  },
+  "516123": {
+    "ja": "前列に配置したドラゴンが、\n戦闘では最初に出てくるぞ。",
+    "en": "Front-row Dragons enter\nbattle first."
+  },
+  "516184": {
+    "ja": "後列は、そのままでは戦闘には\n参加できん。補欠っちゅーことだな。",
+    "en": "The back row cannot fight as-is.\nThey are your reserves."
+  },
+  "516255": {
+    "ja": "体力やＦＰを見ながら、うまく交代を\n使うのが、かしこい戦いかたじゃノ。",
+    "en": "Watch HP and FP, and swap Dragons\nfor a smart way to fight."
+  },
+  "516325": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "516336": {
+    "ja": "ま、そのへんを考えて、ネストで\nチームを組んでいくことだね。",
+    "en": "Keep that in mind when you\nbuild your team at the Nest."
+  },
+  "517292": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "517303": {
+    "ja": "ヤナガさん…？\nい、いや、きいてないなぁ…。",
+    "en": "Yanaga...? N-no, nothing..."
+  },
+  "517347": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "517358": {
+    "ja": "それより、古のタマゴ、\nあずかってるよ。",
+    "en": "Anyway, I have your Ancient Egg."
+  },
+  "517398": {
+    "ja": "【古のタマゴ】を手に入れた。",
+    "en": "Got the [Ancient Egg]."
+  },
+  "517427": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "517438": {
+    "ja": "まぁ、ドラゴンスコアがよめるヤツ\nなんて、きいたコトないけどね。",
+    "en": "I have never heard of anyone\nwho can read a Dragon Score."
+  },
+  "517509": {
+    "ja": "ジャそうだが…\nためしてみるか、ドラゴンスコア？",
+    "en": "Maybe so...\nTry the Dragon Score?"
+  },
+  "517568": {
+    "ja": "ドラゴンスコアって、これ、\nつまるところ音符だろ？",
+    "en": "A Dragon Score is just\nsheet music, right?"
+  },
+  "517625": {
+    "ja": "ウム。その音をひけば古のタマゴから\nドラゴンが生まれるわけジャが…。",
+    "en": "Yes. Play that tune to hatch\na Dragon from the Ancient Egg, but..."
+  },
+  "517700": {
+    "ja": "ざんねんながら、メグミビトではない\nワシにはよむことができん。",
+    "en": "Sadly, I cannot read it.\nI am no Blessed One."
+  },
+  "517769": {
+    "ja": "こればかりはおぬし自身の手で\n音をかなでるしかなさそうじゃノ。",
+    "en": "You will have to play the tune\nyourself this time."
+  },
+  "517842": {
+    "ja": "う〜〜〜。\nまあ、やってみるか…。",
+    "en": "Ugh...\nI'll try..."
+  },
+  "517876": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "517887": {
+    "ja": "じゃ、説明しよっか。「＜音＞で\nドラゴンを誕生させる」をタッチと。",
+    "en": "Here is how. Tap 'Birth a Dragon\nwith Sound.'"
+  },
+  "518173": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518184": {
+    "ja": "まず、古のタマゴをえらんで…。",
+    "en": "Choose the Ancient Egg..."
+  },
+  "518215": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518226": {
+    "ja": "それから\n「＜音＞をきかせる」をタッチする。",
+    "en": "Then tap\n'Play Sound for It.'"
+  },
+  "518634": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518645": {
+    "ja": "そうすると、ドラゴンスコアの\n一覧が見れるので、",
+    "en": "The list of Dragon Scores\nwill appear."
+  },
+  "518693": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518704": {
+    "ja": "使いたい「ドラゴンスコア」を\nタッチでえらび、決定する。",
+    "en": "Tap the Dragon Score you want,\nthen confirm."
+  },
+  "518760": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518771": {
+    "ja": "スコアに書いてある音を古のタマゴに\nきかせるといいらしいんだけど…",
+    "en": "Play the tune\non the score for the egg..."
+  },
+  "518837": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "518848": {
+    "ja": "音をまちがっても、タマゴはなくなら\nないから、おちついてやるこった。",
+    "en": "Even if you play it wrong, you\nkeep the egg. Take your time."
+  },
+  "519036": {
+    "ja": "ネスト係員",
+    "en": "Nest Aide"
+  },
+  "519047": {
+    "ja": "ま、伝説への挑戦って感じだな。\nがんばりな、",
+    "en": "Quest for legend starts now.\nGood luck,"
+  }
+}

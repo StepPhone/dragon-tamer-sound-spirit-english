@@ -1,0 +1,548 @@
+[
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 48603,
+    "length": 18,
+    "ja": "＜スピリット＞を…",
+    "en": "Show Spirit..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530099,
+    "length": 59,
+    "ja": "ああ、チキショー！　あいつにも\nソッコーで教えてやんなきゃ！",
+    "en": "Aw, crap! Tell him too!\nI gotta hurry!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530159,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530164,
+    "length": 55,
+    "ja": "メール、メール……。\n件名は……「ロックだぜ！！」っと。",
+    "en": "Email, email...\nSubject: \"Rock on!!\""
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530220,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530227,
+    "length": 20,
+    "ja": "件名：ロックだぜ！！",
+    "en": "Subject: Rock on!!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530248,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530255,
+    "length": 67,
+    "ja": "こないだ見つけたギターおぼえてる？\nネックが少しはげた、中古のヤツ。",
+    "en": "Remember that used guitar\nwith the worn neck?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530323,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530330,
+    "length": 57,
+    "ja": "買ったんだよ！　あれさ！\nお年玉２年分、全部すっとんだよ！",
+    "en": "Got it! The guitar!\nSpent two years' allowance!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530388,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530395,
+    "length": 59,
+    "ja": "いやー、すごく、なやんだけど…\nオレの行動、ロックだよなー。",
+    "en": "I really agonized...\nBut that's rockin', right?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530455,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530462,
+    "length": 65,
+    "ja": "これから練習してさ、次のたんじょう\nパーティー、ハデに決めようぜ！",
+    "en": "I will practice and rock\nthe next birthday party!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530528,
+    "length": 6,
+    "ja": "メール",
+    "en": "Mail"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530535,
+    "length": 24,
+    "ja": "あとで見せてやるから……",
+    "en": "I'll show you later..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530560,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530565,
+    "length": 32,
+    "ja": "家、に、こ、い、と…………あれ？",
+    "en": "C-come over... Huh?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530598,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530603,
+    "length": 24,
+    "ja": "アンテナ……立ってない？",
+    "en": "No signal...?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530628,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530633,
+    "length": 32,
+    "ja": "おかしいな…いつもフツーに３本…",
+    "en": "Weird...\nI usually get 3 bars..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530666,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530671,
+    "length": 6,
+    "ja": "…え？",
+    "en": "Huh?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530678,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530683,
+    "length": 47,
+    "ja": "なんだ？　今なにか……\n音がきこえた…ような…？",
+    "en": "What was that?\nDid I hear something?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530731,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530736,
+    "length": 20,
+    "ja": "………スピリット…？",
+    "en": "...A Spirit...?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530757,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530762,
+    "length": 18,
+    "ja": "＜音＞を…しめせ？",
+    "en": "Show sound...?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530781,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530786,
+    "length": 41,
+    "ja": "ま、まってよ！\nだれ？　だれかいるのか！？",
+    "en": "W-wait! Who's there?\nAnyone?!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530828,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530833,
+    "length": 18,
+    "ja": "……………………。",
+    "en": "................"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530852,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530857,
+    "length": 16,
+    "ja": "…………消えた。",
+    "en": "...It's gone."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530874,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530879,
+    "length": 20,
+    "ja": "なんだよ…今の……。",
+    "en": "What was that...?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530900,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530905,
+    "length": 41,
+    "ja": "空耳？　ギター買って\nうかれすぎちゃった？",
+    "en": "Hearing things?\nGuitar fever?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530947,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 530952,
+    "length": 47,
+    "ja": "そりゃショボいよ。\n未来のロックスター様がさァ。",
+    "en": "So lame...\nFuture rock star, huh?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531000,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531005,
+    "length": 43,
+    "ja": "だいたい、\nオレの＜音＞っていわれても……。",
+    "en": "Still, my sound..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531049,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531054,
+    "length": 20,
+    "ja": "オレの＜音＞……か。",
+    "en": "My sound... huh."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531075,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531080,
+    "length": 4,
+    "ja": "え？",
+    "en": "Huh?"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531085,
+    "length": 2,
+    "ja": "声",
+    "en": "V"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531088,
+    "length": 37,
+    "ja": "なるほど…\nそれがおまえの＜音＞か…。",
+    "en": "I see...\nSo that is your sound..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531126,
+    "length": 2,
+    "ja": "声",
+    "en": "V"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531129,
+    "length": 57,
+    "ja": "よかろう。その内にひめた\n＜スピリット＞、しかと感じたぞ。",
+    "en": "Very well. I felt the spirit\nhidden within you..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531187,
+    "length": 2,
+    "ja": "声",
+    "en": "V"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531190,
+    "length": 57,
+    "ja": "このオロチ、これよりおまえを\nわがキビトとみとめよう……！",
+    "en": "I, Orochi, accept you\nas my retainer...!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531248,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531253,
+    "length": 24,
+    "ja": "オロチ？　なんだって！？",
+    "en": "Orochi? What?!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531278,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531283,
+    "length": 36,
+    "ja": "まてよ！　おい、どうなってんだよ！！",
+    "en": "Wait! What's going on?!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531320,
+    "length": 4,
+    "ja": "少年",
+    "en": "Boy"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 531325,
+    "length": 16,
+    "ja": "おーい！！！！！",
+    "en": "Hellooo!!!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50326,
+    "length": 34,
+    "ja": "…ようこそ、えらばれし者たちよ…。",
+    "en": "...Welcome, chosen ones..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50361,
+    "length": 61,
+    "ja": "自らの意志で、　　　　　　　　\n世界をえらびとりし者たちよ…。",
+    "en": "Those who chose this world\nby your own will..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50423,
+    "length": 53,
+    "ja": "そは竜の世界。　　　　　　\nそは＜スピリット＞の世界。",
+    "en": "A world of Dragons.\nA world of Spirits."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50477,
+    "length": 61,
+    "ja": "そは汝（なんじ）らがみちびく、\nあたらしき可能性の世界。　　　",
+    "en": "A world of new possibilities,\nshaped by you."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50539,
+    "length": 30,
+    "ja": "自らの＜スピリット＞をしめせ。",
+    "en": "Show your Spirit."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50570,
+    "length": 18,
+    "ja": "戦え。そして勝て。",
+    "en": "Fight. And win."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50589,
+    "length": 57,
+    "ja": "勝者の名の元に　　　　　　　\n＜スピリット＞は明示され…。",
+    "en": "The victor will reveal\ntheir Spirit..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50647,
+    "length": 34,
+    "ja": "やがて、世界はいやされるだろう…。",
+    "en": "The world will be healed..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50682,
+    "length": 36,
+    "ja": "行くがよい。汝らをまつ、主のもとへ。",
+    "en": "Go now, to the one who awaits..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50719,
+    "length": 61,
+    "ja": "闇（やみ）をぬけて。　　　　　\n自らの想いの音色をだきしめて。",
+    "en": "Through the darkness...\nHold close your heart's own song."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50781,
+    "length": 32,
+    "ja": "ようこそ、えらばれし者たちよ…。",
+    "en": "Welcome, chosen ones..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50814,
+    "length": 65,
+    "ja": "自らの意志で、　　　　　　　　　\n世界をえらびとりし者たちよ……。",
+    "en": "Those who chose this world\nby your own will..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50885,
+    "length": 10,
+    "ja": "オレは……",
+    "en": "I..."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50901,
+    "length": 14,
+    "ja": "オレは……！！",
+    "en": "I...!!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50919,
+    "length": 8,
+    "ja": "……ろ。",
+    "en": "...wake."
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50931,
+    "length": 23,
+    "ja": "……きろ！\n起きんか！！",
+    "en": "...Wake!\nGet up!!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 50958,
+    "length": 51,
+    "ja": "おぬしが死んだら元も子もないわ！\n目をあけんかい！！",
+    "en": "If you die, it's all over!\nOpen your eyes!!"
+  },
+  {
+    "file": "data/new_script_dat.pac",
+    "offset": 51013,
+    "length": 20,
+    "ja": "起きるんジャーっ！！",
+    "en": "Wake up!!"
+  }
+]

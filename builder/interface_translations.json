@@ -1,0 +1,352 @@
+{
+  "data/info_battle.pac": {
+    "9043": {
+      "ja": "ネームプレートと強さ",
+      "en": "Nameplate & Strength"
+    },
+    "9064": {
+      "ja": "フォースポイント",
+      "en": "Force Points"
+    },
+    "9081": {
+      "ja": "ドラゴンフォース",
+      "en": "Dragon Force"
+    },
+    "9098": {
+      "ja": "ドラゴンパネル",
+      "en": "Dragon Panel"
+    },
+    "9113": {
+      "ja": "ステータス表示画面",
+      "en": "Status Screen"
+    },
+    "9132": {
+      "ja": "チェンジによる浄化",
+      "en": "Switch Cleansing"
+    },
+    "9151": {
+      "ja": "エフェクト確認画面",
+      "en": "Effect Check"
+    },
+    "9170": {
+      "ja": "後列の「◆」マーク",
+      "en": "Rear-Row Gems"
+    },
+    "9189": {
+      "ja": "火属性能力",
+      "en": "Fire Skill"
+    },
+    "9200": {
+      "ja": "水属性能力",
+      "en": "Water"
+    },
+    "9211": {
+      "ja": "風属性能力",
+      "en": "Wind Skill"
+    },
+    "9222": {
+      "ja": "地属性能力",
+      "en": "Earth"
+    },
+    "9233": {
+      "ja": "光属性能力",
+      "en": "Light"
+    },
+    "9244": {
+      "ja": "闇属性能力",
+      "en": "Dark Skill"
+    },
+    "9255": {
+      "ja": "無属性能力",
+      "en": "Null Skill"
+    },
+    "9266": {
+      "ja": "ひるみ",
+      "en": "Flinch"
+    },
+    "9273": {
+      "ja": "勝敗が決まるターン数",
+      "en": "Battle Turn Limit"
+    },
+    "9294": {
+      "ja": "DFのFP消費タイミング",
+      "en": "DF FP Timing"
+    },
+    "9315": {
+      "ja": "エフェクトの重ねがけ",
+      "en": "Effect Stacking"
+    },
+    "9336": {
+      "ja": "ブレス攻撃",
+      "en": "Breath"
+    },
+    "9347": {
+      "ja": "カマイタチ",
+      "en": "Wind Cut"
+    },
+    "9358": {
+      "ja": "ドレイン攻撃",
+      "en": "HP Drain"
+    },
+    "9371": {
+      "ja": "ねむり",
+      "en": "Sleep"
+    },
+    "9378": {
+      "ja": "挑発",
+      "en": "Lure"
+    },
+    "9386": {
+      "ja": "しびれ",
+      "en": "Shock"
+    },
+    "9393": {
+      "ja": "属性変化",
+      "en": "Element"
+    },
+    "9402": {
+      "ja": "カウンター",
+      "en": "Counter"
+    },
+    "9413": {
+      "ja": "復活オーラ",
+      "en": "Revive"
+    },
+    "9424": {
+      "ja": "チェンジ封印",
+      "en": "Swap Lock"
+    },
+    "9437": {
+      "ja": "フォース封印",
+      "en": "Force Lock"
+    },
+    "9450": {
+      "ja": "ダブルアタック",
+      "en": "Double Hit"
+    },
+    "9465": {
+      "ja": "変身",
+      "en": "Form"
+    },
+    "9470": {
+      "ja": "七賢竜だけがもつ能力",
+      "en": "Sage Skill"
+    }
+  },
+  "data/info.pac": {
+    "1648": {
+      "ja": "12種類のドラゴンが生まれるタマゴ(仮)",
+      "en": "Hatches 12 Dragon types (draft)."
+    },
+    "1685": {
+      "ja": "(仮)全体効果を放つドラゴンが多く生まれるタマゴ",
+      "en": "Hatches group-effect Dragons (draft)."
+    },
+    "1732": {
+      "ja": "(仮)属性変更など補助効果を持つドラゴンが多く生まれるタマゴ",
+      "en": "Hatches element-changing support Dragons (draft)."
+    },
+    "1791": {
+      "ja": "(仮)玄人向けなドラゴンが生まれるタマゴ",
+      "en": "Hatches expert Dragons (draft)."
+    },
+    "1830": {
+      "ja": "(仮)レアドラゴンはが生まれるタマゴ",
+      "en": "Hatches rare Dragons (draft)."
+    },
+    "1865": {
+      "ja": "(仮)特殊なドラゴンが生まれる",
+      "en": "Special Dragons (draft)."
+    },
+    "6856": {
+      "ja": "姿の見えている敵",
+      "en": "Visible Enemies"
+    },
+    "6873": {
+      "ja": "ネームプレートと強さ",
+      "en": "Nameplate & Strength"
+    },
+    "6894": {
+      "ja": "預けられるドラゴン",
+      "en": "Dragon Storage"
+    },
+    "6913": {
+      "ja": "緑色のドラゴンスコア",
+      "en": "Green Dragon Scores"
+    },
+    "6934": {
+      "ja": "ドラゴンスコア",
+      "en": "Dragon Score"
+    },
+    "6949": {
+      "ja": "マスターレベル",
+      "en": "Master Level"
+    },
+    "6964": {
+      "ja": "カースドダンジョン",
+      "en": "Cursed Dungeons"
+    },
+    "6983": {
+      "ja": "竜斗台について",
+      "en": "The Arena"
+    },
+    "6998": {
+      "ja": "フラトのタマゴ",
+      "en": "Flato Egg"
+    },
+    "7013": {
+      "ja": "メゾピのタマゴ",
+      "en": "Mezopi Egg"
+    },
+    "7028": {
+      "ja": "アクトのタマゴ",
+      "en": "Acto Egg"
+    },
+    "7043": {
+      "ja": "フォルテのタマゴ",
+      "en": "Forte Egg"
+    },
+    "7060": {
+      "ja": "金のタマゴ",
+      "en": "Gold Egg"
+    },
+    "7071": {
+      "ja": "古のタマゴ",
+      "en": "Anc. Egg"
+    },
+    "7082": {
+      "ja": "●ドラゴンアイコン",
+      "en": "Dragon Icons"
+    },
+    "7101": {
+      "ja": "●ステータス表示画面",
+      "en": "Status Screen"
+    },
+    "7122": {
+      "ja": "●ダイヤ(◆)マーク",
+      "en": "Diamond Marks"
+    },
+    "7141": {
+      "ja": "●チェンジ",
+      "en": "Switch"
+    },
+    "7152": {
+      "ja": "●エフェクト確認画面",
+      "en": "Effect Check"
+    },
+    "7173": {
+      "ja": "●火属性能力",
+      "en": "Fire Skill"
+    },
+    "7186": {
+      "ja": "●水属性能力",
+      "en": "Water Skill"
+    },
+    "7199": {
+      "ja": "●風属性能力",
+      "en": "Wind Skill"
+    },
+    "7212": {
+      "ja": "●地属性能力",
+      "en": "Earth Skill"
+    },
+    "7225": {
+      "ja": "●光属性能力",
+      "en": "Light Skill"
+    },
+    "7238": {
+      "ja": "●闇属性能力",
+      "en": "Dark Skill"
+    },
+    "7251": {
+      "ja": "●無属性能力",
+      "en": "Null Skill"
+    },
+    "7264": {
+      "ja": "●闇浄化",
+      "en": "Purify"
+    },
+    "7273": {
+      "ja": "●ひるみ",
+      "en": "Flinch"
+    },
+    "7282": {
+      "ja": "●七賢竜だけがもつ能力",
+      "en": "Sage Dragon Skills"
+    },
+    "7305": {
+      "ja": "２周目について",
+      "en": "New Game+"
+    }
+  },
+  "data/info_another.pac": {
+    "4867": {
+      "ja": "姿が見えている敵",
+      "en": "Visible Enemies"
+    },
+    "4884": {
+      "ja": "タマゴと音について1",
+      "en": "Eggs and Sounds 1"
+    },
+    "4904": {
+      "ja": "タマゴと音について2",
+      "en": "Eggs and Sounds 2"
+    },
+    "4924": {
+      "ja": "トントに音をきかせる",
+      "en": "Tonto Hears Sounds"
+    },
+    "4945": {
+      "ja": "預けられるドラゴン",
+      "en": "Dragon Storage"
+    },
+    "4964": {
+      "ja": "ドラゴンスコア",
+      "en": "Dragon Score"
+    },
+    "4979": {
+      "ja": "マスターレベル",
+      "en": "Master Level"
+    },
+    "4994": {
+      "ja": "カースドダンジョン",
+      "en": "Cursed Dungeons"
+    },
+    "5013": {
+      "ja": "竜斗台について",
+      "en": "The Arena"
+    },
+    "5028": {
+      "ja": "幻のドラゴンスコア",
+      "en": "Rare Dragon Scores"
+    },
+    "5047": {
+      "ja": "フラトのタマゴ",
+      "en": "Flato Egg"
+    },
+    "5062": {
+      "ja": "メゾピのタマゴ",
+      "en": "Mezopi Egg"
+    },
+    "5077": {
+      "ja": "アクトのタマゴ",
+      "en": "Acto Egg"
+    },
+    "5092": {
+      "ja": "フォルテのタマゴ",
+      "en": "Forte Egg"
+    },
+    "5109": {
+      "ja": "金のタマゴ",
+      "en": "Gold Egg"
+    },
+    "5120": {
+      "ja": "古のタマゴ",
+      "en": "Anc. Egg"
+    },
+    "5131": {
+      "ja": "２周目について",
+      "en": "New Game+"
+    }
+  }
+}

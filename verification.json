@@ -1,0 +1,24 @@
+{
+  "version": "v0.1-beta",
+  "game_code": "AGOJ",
+  "source_sha256": "94af217b500a13b483fa2f0db42e63b93ca0c1481f471af3289dc6bd78acc3a1",
+  "target_sha256": "09075092373cc7be3b7a341f66bc688e6ea7f5d929032578df207bbc546b8559",
+  "patch_sha256": "8d3d48318ef0419ebc8a0477a0b76501e88b9ed1cae683948c74c12e01eb66e5",
+  "rom_bytes": 67108864,
+  "bps_round_trip": true,
+  "full_campaign_tested": false,
+  "hardware_tested": false,
+  "wireless_tested": false,
+  "verified_map_descriptions": 58,
+  "runtime_checks": [
+    "Boot credits and transition to title",
+    "Continue using copied normal save",
+    "Hamana City and West Yonama Sea map descriptions"
+  ],
+  "limitations": [
+    "Some translations are machine-assisted drafts and need further review",
+    "Some staff-name romanizations are provisional",
+    "Further missed Japanese or layout issues may remain"
+  ],
+  "clean_repository_rebuild_matches": true
+}

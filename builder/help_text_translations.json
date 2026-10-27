@@ -1,0 +1,308 @@
+{
+  "data/info.pac": {
+    "188": {
+      "ja": "ダンジョン内の敵で、\n【姿が見えている敵】と遭遇した場合は、\n「逃げる」ことができないので注意しましょう。　\n\nまた、【姿が見えている敵】は、\n通常のドラゴンたちよりも強いドラゴンです。\n\n充分、気をつけて戦いましょう。",
+      "en": "Visible dungeon foes cannot be escaped from.\n\nThey are stronger than ordinary dragons,\nso take care when fighting them.\n"
+    },
+    "402": {
+      "ja": "敵ドラゴンの名前が書かれている、\n【ネームプレート】には、赤と黄色の２種があり、\n大体の強さを見極めることができます。\n\n【黄色いネームプレート】には注意しましょう。\n普通よりも大きなパワーを持っている、\n凶暴なドラゴン達です。",
+      "en": "Enemy nameplates come in red and yellow\nand give a rough idea of a dragon's strength.\n\nBeware yellow nameplates: those dragons\nare fiercer and stronger than usual.\n"
+    },
+    "625": {
+      "ja": "ネストに預けられるドラゴンは\n１種族につき３体までです。\n\n４体目をタマゴから生んでしまったら、\nその場でネストに引き渡す事になります。",
+      "en": "The Nest can hold up to 3 dragons\nof each species.\n\nIf you hatch a fourth, you must\nleave it at the Nest.\n"
+    },
+    "758": {
+      "ja": "緑色のドラゴンスコア――\nこの楽譜は消えてしまっているのです。\n\nこのドラゴンスコアを使って、\n書かれてあったメロディを、\n古のタマゴに聴かせると、\n特殊なドラゴンが生まれます。\n\nメロディのヒントは、この世界ではない場所で、\n見つかるかもしれません・・・",
+      "en": "The notes on this green Dragon Score\nhave vanished.\n\nPlay its lost melody for the Ancient Egg\nto hatch a special dragon.\n\nYou may find clues to the melody\nsomewhere beyond this world...\n"
+    },
+    "1006": {
+      "ja": "正確な音を表現できる楽器で、\n音をきかせてあげなければいけません。\n\nピアノや縦笛を使って、\nよく練習してから、トントに聴かせましょう。",
+      "en": "You need an instrument that can play\nthe notes accurately.\n\nPractice on a piano or recorder,\nthen play the tune for Tonto.\n"
+    },
+    "1139": {
+      "ja": "マスターレベルになったドラゴンは、\nそれ以上、経験値をもらえません。\n\n他のドラゴンを使うようにして、\n上手にドラゴンを育てて行きましょう。",
+      "en": "A dragon at its level cap can gain\nno more experience.\n\nTrain other dragons to raise\nyour team wisely.\n"
+    },
+    "1276": {
+      "ja": "カースドダンジョンは、\n【条件付きのダンジョン】です。\n条件にあわせたチーム編成と、\nボスの倒し方をしなければ、\nクリアする事はできません。\n\nボスの倒し方を間違えると解呪失敗となり、\nゲームオーバーになってしまいますので、\n良く考えた戦い方をしましょう。",
+      "en": "Cursed Dungeons have special rules.\nBuild a team that meets the entry rules,\nand defeat the boss as required to clear it.\n\nFail the boss condition and the curse\nwill remain-you will get a Game Over.\nPlan your strategy carefully.\n"
+    },
+    "1525": {
+      "ja": "竜斗台は、\n自分のテイマーとしての実力を示す場所です。\n勝利すると、通行許可証がもらえて、\n新しい国に進めるようになります。\n",
+      "en": "The Arena tests your skill as a Tamer.\nWin to earn a travel permit\nand gain access to a new country.\n\n"
+    },
+    "1894": {
+      "ja": "バトル中の下画面でドラゴンのシルエットが\n描かれたアイコンのことをいいます。\nタッチするとコマンドメニューを開きます。\n\nアイコンの色が属性を表わしてます。\n赤色が火属性・青色が水属性・緑色が風属性・\n茶色が地属性・黄色が光属性・紫色が闇属性・\n灰色が無属性を意味しています。\n\nFPがドラゴンフォースをつかえる数になると\nドラゴンアイコンにDFマークがつきます。\nこまめにチェックしましょう。",
+      "en": "Dragon icons show each fighter's silhouette.\nTap one to open its command menu.\n\nIcon colors show element: red=Fire, blue=Water,\ngreen=Wind, brown=Earth, yellow=Light,\npurple=Dark, and gray=Null.\n\nWhen a dragon has enough FP for its Dragon Force,\na DF mark appears on its icon. Check often.\n"
+    },
+    "2274": {
+      "ja": "バトル下画面にあるドラゴンのネームプレートを\nタッチすると上画面がステータス表示画面へと\nきりかわります。\nドラゴンフォースの効果や消費FP、攻撃力(ATK)\n・防御力(DEF)・素早さ(SPD)・HPを全て\nみることができます。\n\nバトル中に変化した攻撃力や防御力も\nこの画面でしっかりと見ることができるので\nこまめにチェックしましょう。",
+      "en": "Tap a dragon's nameplate on the lower screen\nto show its status on the upper screen.\nView its Dragon Force, FP cost, ATK, DEF, SPD,\nand HP.\n\nStatus changes during battle are shown here too,\nso check back often.\n"
+    },
+    "2587": {
+      "ja": "バトル下画面に◆マークを表示する\nことがあります。\n\nこれはクリスタルケージ内にいるドラゴンを\n表わしています。\n◆マークの数がケージ内ドラゴンの数です。\n味方側は右下、敵側は左上に表示されます。\n\nマークが黒いとHP0で死んでいます。\n敵クリスタルケージ内で何匹生きているかを\n知っておくのは非常に重要なことです。\n見落とさないように注意しましょう。",
+      "en": "Diamonds on the lower screen represent\ndragons inside the Crystal Cage.\nTheir number shows how many are caged.\nAllies appear at lower right; foes at upper left.\n\nA black diamond means that dragon has 0 HP.\nKeep track of how many enemy dragons remain\nalive in the cage.\n"
+    },
+    "2926": {
+      "ja": "戦場にいるドラゴンを選んでチェンジをすると\nクリスタルケージ内のドラゴンを選ぶ画面になり\nそこで選んだドラゴンと交代できます。\n\n戦場にいるドラゴンがチェンジすると\n浄化がかかります。\n浄化がかかるとエフェクトが全て消えます。\n悪いエフェクトがかかった場合はチェンジも\n選択のひとつとして考えましょう。\n\nまた、チェンジ待ちターンだけ防御と同じように\n防御力(DEF)を2倍位にアップさせます。",
+      "en": "Choose Change for a fielded dragon, then pick\na replacement from the Crystal Cage.\n\nChanging cleanses the outgoing dragon,\nremoving all effects. Consider switching\nif it has harmful effects.\n\nWhile waiting to switch, its DEF rises\nto about double, just like when defending.\n"
+    },
+    "3304": {
+      "ja": "ドラゴンにエフェクトがかかると下画面に\nエフェクトと書かれたプレートが表われます。\n\nコマンド入力時にプレートをタッチすると\nドラゴンにかかっている全てのエフェクトを\n確認できる画面が表われます。\n\n何がかかっているか忘れてしまった時には\nこの画面できちんと確認しましょう。",
+      "en": "When a dragon has an effect, an Effect\nplate appears on the lower screen.\n\nTap it while choosing commands to see\nall effects currently on that dragon.\n\nCheck here if you forget what is active.\n"
+    },
+    "3571": {
+      "ja": "火属性は、現在のFPを攻撃力(ATK)と\n防御力(DEF)にプラスする能力を\n持っています。\n\n攻撃をする瞬間のFPがたまっていると攻撃力が\n高くなり、与えるダメージも大きくなります。\nまた攻撃を受ける瞬間もFPだけ防御力が\n高くなり受けるダメージが小さくなります。\n\nFPをうまくコントロールすると強い属性です。",
+      "en": "Fire adds current FP to ATK and DEF.\n\nMore FP when attacking means greater ATK\nand more damage. When hit, current FP also\nraises DEF and reduces damage.\n\nManage FP well to get the most from Fire.\n"
+    },
+    "3859": {
+      "ja": "水属性は、攻撃をうけたときにFPを1ポイント\nためられる能力をもっています。\n\nただドラゴンフォースによって受ける攻撃では\nたまりません。\n攻撃コマンドによる攻撃のみです。\n\n防御力を上げておくと死ににくいので\nより多くのFPがもらえます。",
+      "en": "Water gains 1 FP when hit by an attack.\n\nDragon Force attacks do not count; only\nregular Attack commands grant FP.\n\nHigher DEF helps it survive and earn more FP.\n"
+    },
+    "4087": {
+      "ja": "風属性は、攻撃をすると竜巻を発生させて\n敵全体に小ダメージをあたえる能力を\nもっています。\n\n竜巻で与える小ダメージは敵全体に同じ値ずつ\nあたえますが、攻撃力(ATK)の値で変化します。\n\n攻撃力がアップすればダメージも\n大きくなります。",
+      "en": "Wind attacks create a tornado that deals\nsmall damage to every enemy.\n\nThe damage is equal for all foes, but depends\non ATK. Higher ATK means more damage.\n"
+    },
+    "4313": {
+      "ja": "地属性は、攻撃する前のドラゴンを攻撃すると\nひるみを発生させ、そのターンの攻撃をさせない\n能力をもっています。\n\nひるみはかかったターンが終われば消えます。\n\nひるませる相手が攻撃する前でないと\n全く意味がないので、相手よりも素早さ(SPD)の\n高いことがとても大切です。\n\nドラゴンの素早さをきちんと見ておきましょう。",
+      "en": "Earth can flinch a dragon it hits before\nthat dragon attacks, stopping its attack\nfor the turn. The flinch then wears off.\n\nTiming matters: Earth must act first, so higher\nSPD than the target is vital. Watch SPD closely.\n"
+    },
+    "4619": {
+      "ja": "光属性は、仲間のドラゴンが死ぬと\n攻撃力(ATK)と防御力(DEF)をそれぞれ5ずつ\nアップさせる能力をもっています。\n\n1体死ぬたびに1回アップします。\nかかるときにいる場所は関係ありません。\n戦場でもクリスタルケージ内でもかかります。\n\nできるだけ戦いの後半に戦場に投入するほうが\nよい属性なので、覚えておきましょう。",
+      "en": "When an ally falls, Light gains 5 ATK\nand 5 DEF. This happens once per ally,\nwherever that ally was-on the field or caged.\n\nLight is best brought into battle later,\nafter allies have fallen.\n"
+    },
+    "4920": {
+      "ja": "闇属性は、自分にエフェクトがかかると\n闇浄化コマンドを使える能力をもっています。\n\n闇浄化をつかうとかかっているエフェクトを\n全て消してFPを5ポイント\nためることができます。\n\nねむりやしびれのような、コマンド入力させない\nエフェクトがかかったときでもつかえます。\n\nつまり、闇に対しては悪いエフェクトをかけても\n逆効果になってしまいます。気をつけましょう。",
+      "en": "Dark dragons can use Dark Cleanse\nwhen they have an effect.\n\nIt removes all effects and grants 5 FP,\nbut ends the dragon's action for the turn.\n"
+    },
+    "5267": {
+      "ja": "無属性は、攻撃があたると\n敵のFPを1ポイントへらすことができる\n能力をもっています。",
+      "en": "Null attacks reduce the target's FP by 1\nwhen they hit.\n"
+    },
+    "5349": {
+      "ja": "闇属性のドラゴンに、エフェクトがかかった\nときだけつかうことができるコマンドです。\n\n闇浄化をつかうとかかっているエフェクトを\n全て消してFPを5ポイント\nためることができます。\n\nねむりやしびれのような、コマンド入力させない\nエフェクトがかかったときでもつかえます。\n\nつまり、闇に対しては悪いエフェクトをかけても\n逆効果になってしまいます。気をつけましょう。",
+      "en": "Dark Cleanse is available only when\na Dark dragon has an effect.\n\nIt removes all effects and grants 5 FP,\nbut ends the dragon's action for the turn.\n"
+    },
+    "5698": {
+      "ja": "地属性のドラゴンが、\n他の攻撃をしようとするドラゴンを\n先に攻撃すると発生するエフェクトです。\n\nかかったターンだけ攻撃することができません。\n\n攻撃コマンド以外の場合（防御・チャージ等）は\n地属性から攻撃をうけても何も起きません。\n\nかかったターンが終わればひるみは消えますので\n次のコマンド入力はできます。",
+      "en": "Earth inflicts Flinch by striking a foe\nbefore it attacks. The foe cannot attack\nfor the rest of that turn.\n\nFlinch cannot stop Defend, Change,\nDragon Force, or FP Charge.\n"
+    },
+    "5999": {
+      "ja": "七賢竜は、それぞれの基本属性（応竜なら地）と\n同じ属性の味方が戦場内に1体いれば、\nドラゴンフォースの消費FPを3少なくする\n能力をもっています。\n\nたとえば応竜の場合、地属性が応竜だけなら\n消費FPは17に、他に1体いれば14に\n全て地属性なら11となります。\n応竜が地以外の属性になり全て地属性以外だと\n消費FP表示通り20となります。\n\n少し難しいですがぜひ使いこなしてください。",
+      "en": "Each of the Seven Sages reduces its\nDragon Force cost by 3 FP if an ally of\nits base element is on the field.\n\nFor example, Ouryu gets the discount\nwhen another Earth dragon is fielded.\n"
+    },
+    "6358": {
+      "ja": "ゲームをクリアした後も、\nドラゴンを集める冒険は続けられます。\n\nクリア後の世界ではほとんどのダンジョンが\nカースドダンジョンになっていて、\n少し難しくなっています。\n\nそのかわり、攻略するとご褒美として\nドラゴンメダルを手に入れる事ができます。\n全てのドラゴンを集めてみましょう！",
+      "en": "You can keep collecting dragons after\nclearing the game.\n\nMost postgame dungeons become tougher\nCursed Dungeons, but clearing them earns\nDragon Medals as rewards.\n\nTry to collect every dragon!\n"
+    }
+  },
+  "data/info_another.pac": {
+    "136": {
+      "ja": "ダンジョン内の敵で、\n【姿が見えている敵】と遭遇した場合は、\n逃げることができないので注意しましょう。　\n\nまた、【姿が見えている敵】は、\n通常のドラゴンたちよりも強いドラゴンです。\n\n気をつけて戦いましょう。",
+      "en": "Visible dungeon foes cannot be escaped from.\n\nThey are stronger than ordinary dragons,\nso take care when fighting them.\n"
+    },
+    "340": {
+      "ja": "タマゴに音をきかせると、\nタマゴに＜スピリット＞がすいこまれます。\nすいこまれた＜スピリット＞の種類が、\n生まれるドラゴンの属性となります。\n\nたとえば、赤と青と黄の3種の＜スピリット＞が\nタマゴにすいこまれている時は、\n火、水、光の属性のドラゴンが\n生まれる可能性があります。",
+      "en": "When an egg hears a sound, it absorbs\nSpirits. Their types determine the element\nof the dragon that may hatch.\n\nFor example, red, blue, and yellow Spirits\ncan produce Fire, Water, or Light dragons.\n"
+    },
+    "610": {
+      "ja": "タマゴにすいこまれている\n＜スピリット＞の割合により、\nどの属性のドラゴンが生まれやすいのかを\nみることができます。\n\nたとえば、赤の＜スピリット＞が多い場合は、\n火属性のドラゴンが生まれやすい音となります。\n\nしかし、確実に火属性が生まれるわけではなく、\n少しでも違う色の＜スピリット＞が\n含まれている場合、その色の属性のドラゴンが\n生まれる可能性もあります。",
+      "en": "The Spirit balance in an egg shows\nwhich element is most likely to hatch.\n\nFor example, many red Spirits make a\nFire dragon more likely, but not certain.\n\nAny other Spirit color present may also\nproduce a dragon of that element.\n"
+    },
+    "962": {
+      "ja": "トントに音をきいてもらうときには、\nできるだけ【大きな音】を\n【近くできいてもらう】と、\nドラゴンを生み出しやすくなります。\n\nまた、トントに一度きいてもらった音は、\nトントの記憶として３つまで保存できます。\n必要な＜スピリット＞を出す音を見つけたら、\nトントの記憶として残すことも重要です。",
+      "en": "For better results, play sounds loudly\nand close to Tonto.\n\nTonto can remember up to 3 sounds.\nSave useful sounds that produce\nthe Spirits you need.\n"
+    },
+    "1247": {
+      "ja": "ネストに預けられるドラゴンは\n１種族につき３体までです。\n\n４体目をタマゴから生んでしまったら、\nその場でネストに引き渡す事になります。\n\nまた、ドラゴンはぜんぶで150体までしか\n預けることができません。\n\n上手に管理していきましょう。",
+      "en": "The Nest can hold up to 3 dragons\nof each species and 150 total.\n\nIf you hatch a fourth of one species,\nyou must leave it at the Nest.\nManage your collection carefully.\n"
+    },
+    "1474": {
+      "ja": "ドラゴンスコアは、【古のタマゴ】から\nドラゴンを生み出す時に使います。\n\n【正確な音を表現できる楽器】で、\n音をきかせてあげなければいけません。\n\nピアノや縦笛を使って、\nよく練習してから、トントにきかせましょう。",
+      "en": "Dragon Scores are used to hatch dragons\nfrom the Ancient Egg.\n\nPlay the melody accurately on an instrument.\nPractice with a piano or recorder, then\nplay it for Tonto.\n"
+    },
+    "1682": {
+      "ja": "ドラゴンにはマスターレベルがあります。\n\nテイマー仮免許では【レベル5】、\nテイマー本免許なら【レベル10】まで、\nドラゴンを育てることができます。\n\nマスターレベルになったドラゴンは、\nそれ以上、経験値をもらえません。\n\n他のドラゴンを使うようにして、\n上手にドラゴンを育てて行きましょう。",
+      "en": "Dragons have a level cap: 5 with a\nprovisional license and 10 with a full one.\n\nCapped dragons gain no more experience.\nTrain other dragons to grow your team.\n"
+    },
+    "1962": {
+      "ja": "カースドダンジョンは、\n【条件付きのダンジョン】です。\n\n入れる条件にあわせたチーム編成で\nダンジョンに入り、\n倒し方の条件に合わせて\nボスチームを全滅させなければ、\nクリアする事はできません。\n\n倒し方を間違えると解呪失敗となり、\nゲームオーバーになってしまいますので、\n良く考えた戦い方をしましょう。",
+      "en": "Cursed Dungeons have special rules.\nEnter with a team that meets the entry\nrequirements, then defeat the boss team\nas required to clear the dungeon.\n\nFail the boss condition and the curse\nremains-you will get a Game Over.\nPlan your strategy carefully.\n"
+    },
+    "2256": {
+      "ja": "竜斗台は、\n自分のテイマーとしての実力を示す場所です。\n\n勝利すると、入国許可証がもらえて、\n新しい国に進めるようになります。\n",
+      "en": "The Arena tests your skill as a Tamer.\nWin to earn an entry permit\nand gain access to a new country.\n\n"
+    },
+    "2380": {
+      "ja": "幻のドラゴンスコアは、【緑色のスコア】で、\n楽譜が消えてしまったスコアです。\n\n幻のドラゴンスコアを使って\nそこに書かれてあったはずのメロディを\n古のタマゴにきかせると\n特殊なドラゴンが生まれるのですが、\nその楽譜はナゾにつつまれています。\n\nメロディのヒントは、この世界ではない場所で、\n見つかるかもしれません…",
+      "en": "A phantom Dragon Score is green,\nbut its notes have vanished.\n\nPlay its lost melody for the Ancient Egg\nto hatch a special dragon. The score's\nnotes remain a mystery.\n\nYou may find melody clues\nsomewhere beyond this world...\n"
+    },
+    "2685": {
+      "ja": "フラトのタマゴからは、味方1体や敵1体など\n単体用のドラゴンフォースを持つドラゴンが\n多く生まれます。\n\n火属性のパイロマンダは味方1体の攻撃力を\n20アップさせることができます。\n\n風属性のブルーバーンはウインドアローという\n攻撃と同じダメージをあたえる風の矢を\n4発撃つことができます。\n\n上の2体は特に使いやすいドラゴンです。",
+      "en": "Furato Eggs often hatch dragons with\nsingle-target Dragon Forces.\n\nFire Pyromanda raises one ally's ATK by 20.\n\nWind Blueburn fires 4 Wind Arrows,\neach dealing normal Attack damage.\n\nBoth are especially easy to use.\n"
+    },
+    "3000": {
+      "ja": "メゾピのタマゴからは、敵全体や味方全体など\n複数用のドラゴンフォースを持つドラゴンが\n登場します。\n\n水属性のマナクイーンは敵全体に70ダメージを\nあたえる、強力なブレス攻撃をもっています。\n\n風属性のリンドブルムは敵全体に毎ターン\n40ダメージをあたえるカマイタチをかけることが\nできるドラゴンフォースを持っています。\n\n新たな力を手に入れてみましょう。",
+      "en": "Mezopi Eggs hatch dragons with Forces\nthat target groups of allies or foes.\n\nWater Mana Queen breathes for 70 damage\nto every enemy.\n\nWind Lindwurm can inflict Wind Cut,\ndealing 40 damage to all foes each turn.\n\nDiscover these new powers!\n"
+    },
+    "3342": {
+      "ja": "アクトのタマゴからは、多くのFPをつかうものの\n今までより効果の大きいドラゴンフォースを持つ\nドラゴンが生まれます。\n\n火属性のアグニは敵1体に380ダメージをあたえる\nフレアソードより強力なブレスをもっています。\n\nまたこのタマゴからは属性変化することができる\nドラゴンが生まれます。\n\n味方全体を地属性に変化させるカラニュートなど\n全ての属性に1体いるので集めてみましょう。",
+      "en": "Act Eggs hatch dragons with stronger\nDragon Forces that cost more FP.\n\nFire Agni's breath deals 380 damage\nto one foe, surpassing Flare Sword.\n\nThese eggs also hatch dragons that\nchange elements. Collect one for each\nelement, such as Earth-changing Karanewt.\n"
+    },
+    "3703": {
+      "ja": "フォルテのタマゴからは少しクセのある\nドラゴンが生まれます。\n\nメリットとデメリットを同時につけてしまう\nドラゴンフォースが多いので注意が必要です。\n\n例えば、地属性のボルガノンは敵の防御力を50も\nダウンさせますが自分の防御力も50ダウンする\nとても危険なドラゴンフォースをつかいます。\n\n他にもクセのあるドラゴンがたくさんいます。\nぜひそろえてみてください。",
+      "en": "Forte Eggs hatch unusual dragons.\n\nMany Dragon Forces bring both benefits\nand drawbacks. For example, Earth\nVolganon lowers a foe's DEF by 50, but\nalso lowers its own DEF by 50.\n\nCollect these tricky dragons with care.\n"
+    },
+    "4051": {
+      "ja": "とても希少な金のタマゴからは火水風地光闇\nそれぞれ1種族しか生まれません。\n\nそして、他のタマゴで生まれてくるドラゴンでは\n決してみられないドラゴンフォースを\nもつものもいます。\n\n自分の目で確かめてみましょう。",
+      "en": "The rare Gold Egg hatches only one\nspecies of each element: Fire, Water, Wind,\nEarth, Light, and Dark.\n\nSome have Dragon Forces found nowhere\nelse. See for yourself!\n"
+    },
+    "4256": {
+      "ja": "古のタマゴからおもに生まれるのは、\n他のタマゴでは絶対に生まれない\n【無属性】のドラゴンです。\n\nつかいやすいものからむずかしいものまで\n色々なドラゴンフォースをもつ\nドラゴンがいます。\n\nたくさん集めていきましょう。",
+      "en": "Ancient Eggs mainly hatch Null dragons,\nwhich no other egg can produce.\n\nThey have many kinds of Dragon Forces,\nfrom simple to challenging.\nCollect them all!\n"
+    },
+    "4467": {
+      "ja": "ゲームをクリアした後も、\nドラゴンを集める冒険は続けられます。\n\nクリア後の世界ではほとんどのダンジョンが\nカースドダンジョンになっていて、\n少しむずかしくなっています。\n\nそのかわり、攻略するとごほうびとして\nドラゴンメダルが手に入ります。\n\n全てのドラゴンを集めてみましょう！",
+      "en": "You can keep collecting dragons after\nclearing the game.\n\nMost postgame dungeons become tougher\nCursed Dungeons, but clearing them earns\nDragon Medals as rewards.\n\nTry to collect every dragon!\n"
+    }
+  },
+  "data/info_battle.pac": {
+    "204": {
+      "ja": "敵ドラゴンの名前が書かれている、\n【ネームプレート】には赤と黄色の２種があり、\n大体の強さを見極めることができます。\n\n【黄色いネームプレート】には注意しましょう。\n普通よりも大きなパワーを持っている、\n凶暴なドラゴン達です。",
+      "en": "Enemy nameplates are red or yellow and show a foe's rough strength.\n\nBeware yellow plates: those dragons are stronger and more ferocious than usual."
+    },
+    "425": {
+      "ja": "ドラゴンフォースを使うために必要なパワーで\n【フォースポイント】と呼びます。\n\n敵に攻撃コマンドでダメージをあたえると\n2ポイント、チャージコマンドで3ポイント\nたまります。\n\n最大30までためることができて、ダンジョンでは\n前のバトルでたまったフォースポイントを、\n次のバトルに持ちこすことができます。\n\nゲーム中では【FP】と略されています。",
+      "en": "Force Points (FP) power Dragon Forces. Attack adds 2 FP; Charge adds 3.\n\nYou can store up to 30 FP. In dungeons, leftover FP carries into the next battle."
+    },
+    "755": {
+      "ja": "ドラゴンがもっている必殺技のことで、\n【ドラゴンフォース】と呼びます。\n\n消費FP分のFPをためれば使うことができます。\n\nまたドラゴンフォースは、バトル中でしか\n使えません。\n\nゲーム中では【DF】と略されています。",
+      "en": "A dragon's signature move is called a Dragon Force. Store enough FP to pay its cost. Dragon Forces can only be used in battle. They are abbreviated DF."
+    },
+    "960": {
+      "ja": "バトル中の下画面で、ドラゴンのシルエットが\n黒くついているパネルのことをいいます。\nタッチするとコマンドメニューを開きます。\n\nパネルの色が属性を表していて、\n赤色が火属性・青色が水属性・緑色が風属性・\n茶色が地属性・黄色が光属性・紫色が闇属性・\n灰色が無属性を意味しています。\n\nドラゴンフォースを使える分のFPがたまると、\nドラゴンパネルにDFマークがつきます。",
+      "en": "Dragon Panels show a dragon's silhouette. Tap one to open its commands.\n\nPanel colors show element: red Fire, blue Water, green Wind, brown Earth, yellow Light, purple Dark, gray Null.\n\nWhen the dragon has enough FP, a DF mark appears on its panel."
+    },
+    "1313": {
+      "ja": "バトル下画面にあるドラゴンのネームプレートを\nタッチすると、上画面がステータス表示画面へと\nきりかわります。\n\nドラゴンフォースの効果や消費FP、攻撃力(ATK)\n・防御力(DEF)・素早さ(SPD)・HPを、\n全てみることができます。\n\nバトル中に変化した攻撃力や防御力も、\nこの画面でしっかりと見ることができるので、\nこまめにチェックしましょう。",
+      "en": "Tap a dragon's nameplate on the lower screen to see its status above: Dragon Force, FP cost, ATK, DEF, SPD, and HP.\n\nChanges to ATK and DEF during battle appear here too. Check often."
+    },
+    "1635": {
+      "ja": "戦場にいるドラゴンがチェンジを行い、\n後列に戻ると「浄化」がかかります。\n「浄化」がかかるとエフェクトが全て消えます。\n\n悪いエフェクトがかかった場合は、\nチェンジも選択のひとつとして考えましょう。\nただし良いエフェクトも消してしまうので、\n注意が必要です。\n\nまたチェンジを待つターンだけ、防御をしている\n状態になり、攻撃ダメージが少なくなります。",
+      "en": "When a fielded dragon uses Change and returns to the rear row, it is cleansed and all effects are removed.\n\nSwitching can remove harmful effects, but it also removes helpful ones.\n\nWhile waiting to switch, the dragon is guarded and takes less attack damage."
+    },
+    "1976": {
+      "ja": "ドラゴンにエフェクトがかかると、下画面に\nエフェクトと書かれたプレートがあらわれます。\n\nコマンド入力時にプレートをタッチすると、\nドラゴンにかかっている全てのエフェクトを\n見ることができる画面を表示します。",
+      "en": "When a dragon has effects, an Effect plate appears below.\n\nTap it while choosing commands to view every effect currently on that dragon."
+    },
+    "2180": {
+      "ja": "クリスタルケージにドラゴンがいる状態で\nバトルに入ると、下画面に◆が表示されます。\n\n◆の数がクリスタルケージにいるドラゴンの数で\n味方側は右下、敵側は左上に表示されます。\n\n黄色いマークが生きているドラゴンで、\n黒いマークは死んでしまったドラゴンです。\n\n敵クリスタルケージ内で何匹生きているかを\n知っておくのは非常に重要なことなので、\n見落とさないように注意しましょう。",
+      "en": "Diamonds appear when dragons are in the Crystal Cage. Their number shows how many are caged: allies at lower right, foes at upper left.\n\nYellow marks show living dragons; black marks show fallen ones. Track how many enemy dragons remain alive."
+    },
+    "2544": {
+      "ja": "火属性は、今のFPを攻撃力(ATK)と防御力(DEF)に\nプラスする能力をもっています。\n\n攻撃をする瞬間のFPがたまっていると、攻撃力が\n高くなり与えるダメージも大きくなります。\n\nまた攻撃を受ける瞬間も、FPだけ防御力が\n高くなり受けるダメージが小さくなります。\n\nFPをうまくコントロールすると強い属性です。",
+      "en": "Fire adds current FP to ATK and DEF.\n\nMore FP when attacking means higher ATK and greater damage. When hit, FP also raises DEF and reduces damage.\n\nManage FP well to get the most from Fire."
+    },
+    "2832": {
+      "ja": "水属性は、攻撃を受けたときにFPを1ポイント\nためられる能力をもっています。\n\nただしドラゴンフォースによって受ける\n攻撃ではたまりません。\n攻撃コマンドによる攻撃のみです。\n\n防御力を上げておくと、攻撃で受けるダメージが\n少なくなって、攻撃受け回数が増えるので\nより多くのFPがためられます。",
+      "en": "Water gains 1 FP when hit by a regular Attack. Dragon Force attacks do not grant FP.\n\nHigher DEF helps Water dragons survive more hits and gain more FP."
+    },
+    "3113": {
+      "ja": "風属性は、攻撃をすると竜巻を発生させて\n敵全体に小ダメージをあたえる能力を\nもっています。\n\n竜巻で与える小ダメージは敵全体に同じ値ずつ\nあたえ、攻撃力(ATK)の値で変化します。\n\n攻撃力がアップすればダメージも\n大きくなります。",
+      "en": "Wind attacks create a tornado that deals small damage to every enemy.\n\nAll foes take equal damage, based on the user's ATK. Higher ATK means more damage."
+    },
+    "3333": {
+      "ja": "地属性は攻撃コマンドでダメージをあたえると\n「ひるみ」を発生させ、相手の攻撃を止める\n能力をもっています。\n\n「ひるみ」はかかったターンが\n終われば消えます。\n\n「ひるみ」が発生しても、相手が攻撃以外の\nコマンドをえらんでいれば意味がありません。\n\nちなみに、「カウンター」で発生する攻撃も\n「ひるみ」で止めることができます。",
+      "en": "Earth attacks can cause Flinch, stopping the foe's attack for that turn. Flinch wears off at turn's end.\n\nIt has no effect if the foe chose a command other than Attack. Flinch can also stop a Counter attack."
+    },
+    "3649": {
+      "ja": "光属性は戦場・クリスタルケージに関わらず\n仲間のドラゴンが1体死ぬごとに、攻撃力(ATK)を\n7アップさせる能力をもっています。\n\n5体仲間が死んで残りの1体が光属性であれば、\nエフェクト無しでも35アップされています。\n\nできるだけ戦いの後半に戦場に投入するほうが\nよい属性です。覚えておきましょう。",
+      "en": "Whenever an ally dragon falls, Light gains 7 ATK. This works whether the ally was on the field or in the Crystal Cage.\n\nLight is useful when sent into battle later. Keep this in mind."
+    },
+    "3933": {
+      "ja": "闇属性は、自分にエフェクトがかかると、\n「闇浄化」コマンドを使えるようになります。\n\n「闇浄化」を使うと、今かかっている\nエフェクトを全て消し、FPを5ポイント\nためることができます。\n\n「ねむり」や「しびれ」といったコマンド入力を\n封じるエフェクトであっても使えます。\n\nつまり、闇に対しては悪いエフェクトをかけても\n逆効果になってしまいます。気をつけましょう。",
+      "en": "When a Dark dragon has an effect, it can use Dark Cleanse to remove all effects and gain 5 FP.\n\nIt works even when Sleep or Shock prevents commands, so harmful effects can backfire against Dark dragons."
+    },
+    "4284": {
+      "ja": "無属性は、攻撃コマンドで\nダメージをあたえると、\n敵のFPを1ポイント\nへらすことができます。",
+      "en": "Null attacks reduce the enemy's FP by 1 when they deal damage."
+    },
+    "4373": {
+      "ja": "地属性ドラゴンが、攻撃コマンドでダメージを\nあたえると発生するエフェクトです。\n\n「ひるみ」状態になると、この後にやろうとした\n攻撃ができなくなります。\n「カウンター」で発生する攻撃もできません。\n\nまた「ひるみ」は、発生したターンが終われば\n消えます。\n\n攻撃コマンド以外を入力していた場合は、\n「ひるみ」状態になっても行動できます。",
+      "en": "Earth inflicts Flinch when it damages a foe with Attack. A flinched dragon cannot perform its planned Attack or Counter.\n\nFlinch wears off at turn's end. Other commands still work, even while flinched."
+    },
+    "4699": {
+      "ja": "このゲームのバトルは、30ターンを\nすぎてしまうと、判定で勝敗が\n決まるようになっています。\n\nあなたのチームのHP合計が、\n敵チームより多ければ、勝利になります。\nHP合計が同じだった場合・少なかった場合は\n敗北となります。\n\n友達と通信対戦する時は、少し変わります。\nHP合計が多かった場合は勝利、同じだった場合は\n引き分け、少なかった場合は敗北となります。",
+      "en": "After 30 turns, battle results are decided by total team HP. In solo play, more HP wins; equal or lower HP loses.\n\nIn link battles, more HP wins, equal HP draws, and less HP loses."
+    },
+    "5043": {
+      "ja": "ドラゴンフォースを敵・味方が\n同じターンに使った場合、\nバトル開始直後に両方のチームのFPが、\n同時に消費されます。\n\nドラゴンフォースを使う予定だったドラゴンが、\n死んでしまった場合にも\nFPは消費されるので注意しましょう。",
+      "en": "If both teams use Dragon Force on the same turn, both teams spend FP as soon as the battle begins.\n\nFP is still spent if a dragon scheduled to use Dragon Force has already fallen."
+    },
+    "5259": {
+      "ja": "同じドラゴンフォースを２重にかけると、\n効果がより強くなったり、\n上書きされるものがあります。\n\nより強くなる効果は「攻撃力」「防御力」\n「素早さ」のアップ・ダウンです。\n\n上書きされる効果は 「ねむり」「しびれ」\n「属性変化」「変身」です。",
+      "en": "Applying the same Dragon Force twice may strengthen an effect or overwrite it.\n\nATK, DEF, and SPD boosts or drops become stronger. Sleep, Shock, Element Change, and Transform overwrite the existing effect."
+    },
+    "5493": {
+      "ja": "敵の持つ防御力や行動に関係なく、\n決められたダメージをあたえることができる、\nドラゴンフォースのことをいいます。\n\nフレアソードがもつドラゴンフォースは、\n敵がどのような状態であろうと、170ダメージを\nあたえます。\n\nこの攻撃をもつドラゴンは、ステータス画面の\nドラゴンフォースの効果に、「ブレス攻撃」と\n書かれています。",
+      "en": "A Breath Attack deals fixed damage regardless of the foe's DEF or action.\n\nFlare Sword always deals 170 damage. Its status-screen Dragon Force effect is labeled 'Breath Attack.'"
+    },
+    "5805": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「カマイタチ」状態のドラゴンは、\n毎ターンHPが40ずつ下がっていきます。\n\nそのままにしておくと、HPは0まで\n下がり続けて死んでしまいます。\n\nチェンジを行い後列に戻すと、\n「浄化」されて「エフェクト」を\n消すことができます。",
+      "en": "Wind Cut is a harmful effect. A dragon with Wind Cut loses 40 HP each turn until its HP reaches 0.\n\nUse Change to return it to the rear row and cleanse the effect."
+    },
+    "6056": {
+      "ja": "敵の持つ防御力やターン中の行動に関係なく、\n決められた量のHPを吸収することができる\nドラゴンフォースのことをいいます。\n\nそのドラゴンフォースが吸収できる\nHPの量よりも、敵の残りHPが少ない場合は、\n残りHPの量だけ吸収します。\n\nこの攻撃をもつドラゴンは、ステータス画面の\nドラゴンフォースの効果に、「ドレイン攻撃」と\n書かれています。",
+      "en": "A Drain Attack absorbs a fixed amount of HP regardless of the foe's DEF or action.\n\nIf the foe has less HP remaining than the amount the attack can drain, only its remaining HP is absorbed. The status screen labels this 'Drain Attack.'"
+    },
+    "6381": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「ねむり」状態のドラゴンは、数ターンの間\n「闇浄化」以外のコマンド入力ができません。\n\nただしダメージを受けると、\n起きて動けるようになります。",
+      "en": "Sleep is a harmful effect. A sleeping dragon cannot choose commands for several turns, except Dark Cleanse.\n\nTaking damage wakes it up."
+    },
+    "6557": {
+      "ja": "エフェクトの１つで、「挑発」状態のドラゴンは\n敵が行う攻撃を全て自分に集めます。\n\nただし集められるのは攻撃コマンドだけで、\nドラゴンフォースには効果がありません。\n\n「挑発」状態のドラゴンが同じチームに\n2体以上いる時は、HPの多い方が\n攻撃を集めます。",
+      "en": "Lure draws all enemy Attack commands to the affected dragon. Dragon Forces are not redirected.\n\nIf two or more allies have Lure, attacks target the one with more HP."
+    },
+    "6803": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「毒」状態のドラゴンは、毎ターン攻撃力とHPが\n10ずつ下がっていきます。\n\nそのままにしておくと、攻撃力は1まで\nHPは0まで下がり続けて死んでしまいます。\n\nチェンジを行い後列に戻すと、\n「浄化」されて「エフェクト」を\n消すことができます。",
+      "en": "Poison is a harmful effect. Each turn, it lowers ATK and HP by 10 until ATK reaches 1 and HP reaches 0.\n\nUse Change to return the dragon to the rear row and cleanse the effect."
+    },
+    "7067": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「しびれ」状態のドラゴンは、数ターンの間\n「闇浄化」以外のコマンド入力ができません。",
+      "en": "Shock is a harmful effect. A shocked dragon cannot choose commands for several turns, except Dark Cleanse."
+    },
+    "7186": {
+      "ja": "エフェクトの１つです。\n使うドラゴンフォースに書かれている属性へと\n一時的に変化します。\n\n元の属性が何だったとしても、\n火の「属性変化」がかかれば、\n火属性になってしまう効果があります。\n\n「属性変化」状態になると、変化前の属性能力が\n使えなくなり、変化後の属性能力が使えます。",
+      "en": "Element Change temporarily changes a dragon to the element named by the Dragon Force.\n\nFor example, Fire Element Change makes any dragon Fire. Its original element ability is replaced by the new element's ability."
+    },
+    "7458": {
+      "ja": "かかると良いエフェクトの1つです。\n\n「カウンター」状態のドラゴンは、\n敵から攻撃をうけるとすぐ攻撃を返します。\n\nただし「しびれ」、「ひるみ」、\n「かなしばり」がかかった状態になると、\n攻撃を返せないので注意しましょう。",
+      "en": "Counter is a helpful effect. When hit by an enemy attack, the dragon immediately strikes back.\n\nShock, Flinch, or Bind prevents the counterattack."
+    },
+    "7673": {
+      "ja": "かかると良いエフェクトの1つです。\n\n「復活オーラ」状態のドラゴンは、\n死んでしまっても最大HPの半分まで\n回復して復活することができます。\n\nただし復活しても、死ぬ前にかかっていた\nエフェクトは全て消えてしまいます。",
+      "en": "Revive Aura is a helpful effect. If the dragon falls, it revives with half its maximum HP.\n\nAll effects it had before falling are removed when it revives."
+    },
+    "7882": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「チェンジ封印」状態のドラゴンは、\nチェンジが全くできなくなります。\n\n「闇浄化」や「浄化」をかける\nドラゴンフォースを使って消しましょう。",
+      "en": "Swap Lock is a harmful effect that prevents Change.\n\nRemove it with Dark Cleanse or a Dragon Force that cleanses effects."
+    },
+    "8054": {
+      "ja": "かかると悪いエフェクトの1つです。\n\n「フォース封印」状態のドラゴンは、\nドラゴンフォースを使うことが\n全くできなくなります。",
+      "en": "Force Lock is a harmful effect that prevents the dragon from using Dragon Force."
+    },
+    "8176": {
+      "ja": "かかると良いエフェクトの1つです。\n\n「ダブルアタック」状態のドラゴンは、\n1度の攻撃で2回攻撃をすることができます。",
+      "en": "Double Attack is a helpful effect. The dragon attacks twice with one Attack command."
+    },
+    "8289": {
+      "ja": "エフェクトの1つで、かかったドラゴンは、\n対象となるドラゴンの姿に変わります。\n同時に使えるドラゴンフォースも変わります。\n\nLv・HP・攻撃力・防御力・属性・素早さは\n変わりません。",
+      "en": "Transform changes a dragon's appearance to match its target and changes which Dragon Force it can use.\n\nIts level, HP, ATK, DEF, element, and SPD stay the same."
+    },
+    "8464": {
+      "ja": "七賢竜は、それぞれが持つ基本属性と\n同じ属性の味方が戦場内に1体いれば、\nドラゴンフォースの消費FPを3少なくする\n能力をもっています。\n\nたとえば応竜の場合、地属性が応竜1体だけでも\n消費FPが3少なくなります。\n地属性が2体いれば消費FPは6、\n全て地属性ならば9少なくなります。\n\nこの能力を七賢竜以外のドラゴンが\n使うことはできません。",
+      "en": "Each of the Seven Sages reduces its Dragon Force cost by 3 FP for every matching-element ally on the field.\n\nFor Ouryu, each Earth dragon on the field counts; three Earth dragons reduce the cost by 9 FP. Other dragons cannot use this skill."
+    }
+  }
+}

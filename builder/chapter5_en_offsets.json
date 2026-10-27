@@ -1,0 +1,138 @@
+{
+  "519347": {
+    "ja": "あ、冒険にでかけたいときは、\nまず町の外に出なくっちゃね。",
+    "en": "To start an adventure, first leave town."
+  },
+  "519412": {
+    "ja": "気脈が関係してるって話だけど…\nドラゴンにはテリトリーがあって",
+    "en": "Dragons have territories, tied to ley lines..."
+  },
+  "519481": {
+    "ja": "洞くつとか、山とか森とか、\nウヨウヨいたりするから注意だよ。",
+    "en": "They roam caves, mountains, and forests. Stay alert!"
+  },
+  "519736": {
+    "ja": "マップがでてくるから、\n行きたい場所をタッチで決定。",
+    "en": "A map appears. Tap a destination to choose it."
+  },
+  "519795": {
+    "ja": "ドラゴンアイコンが移動したら、\n「入る」をタッチで中に入れるよ。",
+    "en": "When your Dragon icon arrives, tap 'Enter' to go in."
+  },
+  "520038": {
+    "ja": "マップを移動中、なにか見つけると\nこうしてバルーンが出る。",
+    "en": "Find something while exploring, and a balloon appears."
+  },
+  "520103": {
+    "ja": "そのバルーンをタッチすると、\n拾う、調べるなどの行動を行うぞ。",
+    "en": "Tap it to pick up or inspect what you found."
+  },
+  "520416": {
+    "ja": "ム、エフェクトのプレートが\n表示されているドラゴンがおるノ？",
+    "en": "Hm? That Dragon has an Effect Plate displayed?"
+  },
+  "520483": {
+    "ja": "そのドラゴン、なにかの状態変化が\n起こっているという意味ジャな。",
+    "en": "That means it is affected by a status change."
+  },
+  "520554": {
+    "ja": "エフェクトプレートをタッチすれば、\n何が変化しているのかわかる。",
+    "en": "Tap the Effect Plate to see what has changed."
+  },
+  "520925": {
+    "ja": "どんなエフェクトがかかっているのか\nチェックすることも大事ジャぞ。",
+    "en": "Check which effects are active on your Dragons."
+  },
+  "520998": {
+    "ja": "エフェクト効果はドラゴンフォースで\n消す方法もあるが…",
+    "en": "Dragon Force can remove effects, but..."
+  },
+  "521059": {
+    "ja": "チェンジを使ってケージに戻せば、\nエフェクト効果もいっしょに消える。",
+    "en": "Change returns a Dragon to its Cage and removes its effects."
+  },
+  "521134": {
+    "ja": "チェンジをすると良い悪いに関係なく\nエフェクトは消える。要注意ジャな。",
+    "en": "Change removes good and bad effects alike. Be careful."
+  },
+  "521895": {
+    "ja": "おっと、そうジャ！\nチェンジについておしえておこう。",
+    "en": "Oh, right! Let me explain Change."
+  },
+  "521954": {
+    "ja": "チェンジとは、戦闘中のドラゴンを\nクリスタルケージに戻したり、",
+    "en": "Change returns a Dragon in battle to the Crystal Cage,"
+  },
+  "522023": {
+    "ja": "ケージで待機しているドラゴンを\n戦闘に出したりすることジャ。",
+    "en": "or brings a waiting Dragon from the Cage into battle."
+  },
+  "522090": {
+    "ja": "死んでしまったドラゴンを\nケージに戻すこともできる。",
+    "en": "You can also return a defeated Dragon to the Cage."
+  },
+  "522149": {
+    "ja": "ただし戦闘中、ケージに入れて\nおけるドラゴンは３体まで。",
+    "en": "Only three Dragons fit in the Cage during battle."
+  },
+  "522212": {
+    "ja": "待機しているドラゴンと\nチェンジする方法は…",
+    "en": "To change with a waiting Dragon..."
+  },
+  "522263": {
+    "ja": "時には待機しているドラゴンと\n入れかえるのも一つの手ジャぞ。",
+    "en": "Sometimes switching with a reserve is a good move."
+  },
+  "522330": {
+    "ja": "まぁ、コツをつかめばカンタン。\nさ、戦いを続けるぞ！",
+    "en": "Get the hang of it, and it's easy. Let's fight on!"
+  },
+  "522689": {
+    "ja": "うむ、古のタマゴをかえしおったか！\nメグミビトの名はダテじゃあないノ。",
+    "en": "You hatched the Ancient Egg! The title Blessed One suits you!"
+  },
+  "522770": {
+    "ja": "ん、まーねー！　…って、\nホントにすごいの、こんなコトが？",
+    "en": "Yeah, sure! ...Wait, is this really that amazing?"
+  },
+  "522835": {
+    "ja": "いや、これは素直にみとめておこう。\nやろうと思ってできることではない。",
+    "en": "I must admit, it is. This is no ordinary feat."
+  },
+  "522912": {
+    "ja": "おぬしの＜スピリット＞、\nたしかにこの目でみとどけた！",
+    "en": "I witnessed your Spirit with my own eyes!"
+  },
+  "523593": {
+    "ja": "カースドダンジョンをタッチすると、\n解呪（カイジュ）の条件がわかるよ。",
+    "en": "Tap a Cursed Dungeon to see the conditions for lifting its curse."
+  },
+  "523670": {
+    "ja": "その条件をクリアできないと、\n解呪は失敗になるから気をつけて。",
+    "en": "Fail the conditions, and the curse stays. Be careful."
+  },
+  "523739": {
+    "ja": "たとえばカースドダンジョン１だと、\n火の属性のドラゴンは入れないから…",
+    "en": "For example, Cursed Dungeon 1 bars Fire Dragons..."
+  },
+  "523816": {
+    "ja": "火属性…たとえばフレアソードが\nいると門前払いをくらっちゃう。",
+    "en": "A Fire Dragon like Flare Sword will be turned away."
+  },
+  "523885": {
+    "ja": "条件をみたすためには、ドラゴンの\n編成をみなおす必要があるってコト。",
+    "en": "You'll need to rethink your Dragon lineup to meet the conditions."
+  },
+  "523960": {
+    "ja": "解呪にも条件が色々あるみたいだし、\nドラゴンはしんちょうにえらばなきゃ。",
+    "en": "Each curse has different requirements, so choose Dragons carefully."
+  },
+  "524039": {
+    "ja": "とりあえずダンジョンを見かけたら、\n内容を確認した方がよさそうじゃノ。",
+    "en": "When you find a dungeon, check its conditions first."
+  },
+  "524116": {
+    "ja": "ま、色々考えてみることね！\nがんばれテイマー！",
+    "en": "Think it over and do your best, Tamer!"
+  }
+}
